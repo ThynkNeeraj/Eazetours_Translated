@@ -1,5 +1,76 @@
 [
   {
+    "url": "discovering-the-unique-tribes-of-gujarat-a-cultural-journey",
+    "page_heading": "Discovering the Unique Tribes of Gujarat: A Cultural Journey",
+    "title": "Discover Gujarat's Unique Tribal Culture | Eaze Tours India",
+    "description": "Explore Gujarat’s hidden tribal communities with Eaze Tours. From Pithora art to vibrant folk dances, our cultural tour packages offer an authentic journey into India’s living traditions. Travel deeper, connect truly.",
+    "image": "/images/blogs/main_image/Unique_Tribes_of_Gujarat.png",
+    "feature_image": "/images/blogs/feature_image/Unique_Tribes_of_Gujarat.jpg",
+    "structure": {
+      "introduction": {
+        "content": "When we think of exploring India, Gujarat probably isn’t the first name that comes into our heads. But it absolutely should be, especially if you’re someone who loves culture, tradition, and travel that feels real. Tucked away from the crowds, Gujarat has a soul you won’t find in guidebooks. It’s alive in its tribal communities, people who have been living the same way for generations, preserving customs, art, and wisdom that the modern world has long forgotten. And if you’ve ever felt the pull to experience a place beyond its tourist hotspots, this is your sign. This is where Gujarat tribal tour packages come in, not just a trip, but a journey into a completely different world."
+      },
+      "main_sections": [
+        {
+          "heading": "Why Tribal Tours in India Are So Special",
+          "content": "In today’s world, travel is often about ticking boxes. But tribal tours? They slow things down. They’re for people who want to feel connected to the land, to the people, to stories. Tribal tour packages in India are about learning instead of watching, feeling instead of just seeing. And Gujarat? It’s one of the most diverse regions when it comes to tribal culture. It’s like a living museum, except nothing is staged; it’s just real life unfolding in front of you."
+        },
+        {
+          "heading": "Meet the Heartbeat of Gujarat: Its Tribes",
+          "content": "Let’s get to know a few of the incredible communities you’ll meet on this journey."
+        },
+        {
+          "heading": "",
+          "subheadings": [
+            {
+              "title": "The Rathwas",
+              "content": "The Rathwas are the artists of the tribal world. Their homes are their canvases, covered in stunning Pithora paintings, colourful, spiritual murals that tell stories of gods, ancestors, and dreams. You don’t just look at their art. You feel it."
+            },
+            {
+              "title": "The Rabaris",
+              "content": "Bold. Beautiful. Fierce. That’s the Rabari tribe. Dressed in dramatic black and white, layered in silver jewellery, the Rabari women are some of the finest embroiderers you’ll ever see."
+            },
+            {
+              "title": "The Garasias",
+              "content": "If joy had a tribe, it would be the Garasias. Their dances are full of energy, and their homes are warm and inviting. They live close to nature and carry a peace that’s honestly contagious."
+            },
+            {
+              "title": "The Bharwads",
+              "content": "Sheep and cattle herders by tradition, the Bharwads are full of stories. You’ll often see them dressed in vibrant colours, singing folk songs that echo through the hills. They’re storytellers, dreamers, and absolutely unforgettable. These communities aren’t living in the past. They’re living their truth — and they’re more than happy to share it with you, if you come with an open heart."
+            }
+          ]
+        },
+        {
+          "heading": "What These Tours Are Really Like",
+          "content": "So what actually happens on one of these Gujarat tribal tour packages? It’s not about watching from a distance. You’ll visit real villages and sit in real homes. You might help cook a meal, watch a dance under the stars, or even learn a bit of their language. It’s immersive. And that’s the magic. They’re moments. Quiet, powerful moments. The journey takes you through the scenic countryside. No city rush, just winding roads, fresh air, and honest experiences."
+        },
+        {
+          "heading": "More Than Just Villages: Gujarat's Rich Culture",
+          "content": "And it doesn’t stop with the tribes. These tours also take you to some absolutely breathtaking landmarks. Like the Adalaj Stepwell — a centuries-old masterpiece carved in stone. Or the Sun Temple at Modhera. And museums like the Calico Museum, packed with stories woven in fabric. It’s a beautiful blend — tribal life and history, side by side."
+        },
+        {
+          "heading": "Step Into the Soul of Gujarat",
+          "content": "There’s something deeply moving about stepping into a world so different from your own, and feeling at home. Gujarat’s tribes aren’t just part of India’s past — they’re part of its living, breathing present. They’re wise, vibrant, and welcoming. And they're prepared to show you an undiscovered side of India."
+        },
+        {
+          "heading": "Why Go With Eaze Tours?",
+          "content": "Experiences like this need care. Eaze Tours knows how to do it right. Our tribal tour packages in India are designed with deep respect for the communities, led by knowledgeable locals, and paced so you can truly soak it all in. Our {{LINK:gujrat_tribal:Gujarat tribal tour packages}} are more than an itinerary. They’re invitations to slow down, listen, and connect.",
+          "links": [
+            {
+              "key": "gujrat_tribal",
+              "text": "Gujarat tribal tour packages",
+              "url": "https://www.eazetours.com/packages/gujarat-tribal-tour-package-india"
+            }
+          ]
+        }
+      ],
+      "conclusion": {
+        "heading": "Ready to Travel Deeper?",
+        "content": "Explore the real India with Eaze Tours. Our beautifully curated Gujarat tribal tour packages offer everything you didn’t know you were looking for: cultural depth, personal connection, and unforgettable memories. Start your journey today."
+      }
+    }
+  },
+  {
     "url": "architectural-wonders-of-south-india-temples-that-will-leave-you-in-awe",
     "page_heading": "The Architectural Wonders of South India: Temples That Will Leave You in Awe",
     "title": "Architectural Wonders of South India | Temple Tour with Eaze Tours",
@@ -140,7 +211,7 @@
   {
     "url": "a-complete-guide-to-the-chardham-yatra-routes-temples-and-travel-tips",
     "page_heading": "A Complete Guide to the Chardham Yatra: Routes, Temples, and Travel Tips",
-    "title": "Chardham Yatra Guide : Routes, Temples &amp; Travel Tips | Eaze Tours",
+    "title": "Chardham Yatra Guide : Routes, Temples & Travel Tips | Eaze Tours",
     "description": "Discover the ultimate guide to the Chardham Yatra — explore routes, temple details, travel tips & a stress-free tour package by Eaze Tours. Plan your spiritual journey today!",
     "image": "/images/blogs/main_image/Chardham_Yatra.png",
     "feature_image": "/images/blogs/feature_image/Chardham_Yatra.jpg",
@@ -512,7 +583,7 @@
     "page_heading": "Pushkar Camel Fair 2025: Culture, Camels & Colors in Rajasthan",
     "title": "Pushkar Camel Fair India | A Unique Cultural Experience | Eaze Tours",
     "description": "Experience the vibrant Pushkar Camel Fair in India—one of the country’s largest livestock fairs. Discover the rich culture, colorful festivities, and local traditions with Eaze Tours.",
-    "image": "/images/blogs/main_image/Pushkar_Camel_Fair_2025.jpg",
+    "image": "/images/blogs/main_image/Pushkar_Camel_Fair_2025.png",
     "feature_image": "/images/blogs/feature_image/Pushkar_Camel_Fair_2025.jpg",
     "structure": {
       "introduction": {
