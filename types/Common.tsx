@@ -108,7 +108,6 @@ interface IBlogDataType {
     faq?: IBlogFAQItem[];  // <-- Add FAQ here as optional
 }
 
-
 export type {
     IPackageDetailDataType,
     IItineraryDetailDataType,
