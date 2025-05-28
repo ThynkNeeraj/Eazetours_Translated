@@ -2,8 +2,9 @@ import BlogsList from "../../../components/Blogs";
 import BlogDetail from "../../../components/BlogDetail";
 import { notFound } from "next/navigation";
 import blogData from "../../../data/blog-structure.json";
-
 import { Metadata } from "next";
+import Script from "next/script";
+import { IBlogDataType } from "../../../types/Common"; // adjust import path if needed
 
 type Params = {
   params: Promise<{
@@ -34,7 +35,7 @@ export async function generateMetadata(props: Params): Promise<Metadata> {
   };
 }
 
-export default function Blogs({ params }: { params: { slug?: string[] } }) {
+export default async function Blogs({ params }: { params: { slug?: string[] } }) {
   const { slug } = params;
 
   if (!slug) {
@@ -47,15 +48,41 @@ export default function Blogs({ params }: { params: { slug?: string[] } }) {
     );
   } else if (slug.length === 1) {
     const blogUrlb = slug[0];
-    const blog = blogData.find(item => item.url === blogUrlb);
+    const blog = blogData.find(item => item.url === blogUrlb) as IBlogDataType | undefined;
 
     if (blog) {
+      const faqSchema =
+        blog.faq && blog.faq.length > 0
+          ? {
+              "@context": "https://schema.org",
+              "@type": "FAQPage",
+              "mainEntity": blog.faq.map(faqItem => ({
+                "@type": "Question",
+                "name": faqItem.question,
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": faqItem.answer,
+                },
+              })),
+            }
+          : null;
+
       return (
-        <div>
-          <div className="mt-16">
-            <BlogDetail blogId={blog.url} />
+        <>
+          {faqSchema && (
+            <Script
+              id="blog-faq-schema"
+              type="application/ld+json"
+              strategy="afterInteractive"
+              dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+            />
+          )}
+          <div>
+            <div className="mt-16">
+              <BlogDetail blogId={blog.url} />
+            </div>
           </div>
-        </div>
+        </>
       );
     }
   }
