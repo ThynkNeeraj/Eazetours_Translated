@@ -71,7 +71,7 @@ export default function BlogDetail({ blogId }: BlogDetailProps) {
     return (
         <div className="mt-[78px] sm:mt-[165px] mx-auto mb-12 max-w-[1200px] w-full px-4">
             <div className="py-6">
-                <h1 className="text-[30px] text-left font-semibold mb-8 sm:text-[45px]">{blog.Page_heading}</h1>
+                <h1 className="text-[30px] text-left font-semibold mb-8 sm:text-[45px]">{blog.page_heading}</h1>
 
                 {/* Hero Image */}
                 <div className="relative w-full h-[250px] sm:h-[600px] rounded-[40px] overflow-hidden shadow-[0px_0px_2px_1px_#00000040] mb-8">
