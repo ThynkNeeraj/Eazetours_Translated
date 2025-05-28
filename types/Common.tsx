@@ -103,7 +103,7 @@ interface IBlogDataType {
     description: string;
     image: string;
     feature_image: string;
-    Page_heading: string;
+    page_heading: string;
     structure: IBlogStructure;
     faq?: IBlogFAQItem[];  // <-- Add FAQ here as optional
 }
