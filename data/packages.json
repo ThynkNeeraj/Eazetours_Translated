@@ -210,10 +210,14 @@
       }
     ],
     "Name": "Forts and Palaces of India",
-    "Tags": ["cultural", "traditional "],
+    "Tags": [
+      "cultural",
+      "traditional "
+    ],
     "LocationDescription": "Delhi-Mandawa-Bikaner-Jaisalmer-Jodhpur-Luni-Ranakpur-Udaipur-Pushkar-Jaipur-Jaipur-Fatehpur Sikri-Agra",
     "Uri": "forts-and-palaces-india",
     "Title": "Explore Fort and Palaces of India Tour - Eaze Tours",
+    "Card_Heading": "Explore Fort and Palaces of India Tour - Eaze Tours",
     "Description": "Explore the majestic Fort and Palaces of India with Eaze Tours. Experience royal heritage, stunning architecture, and timeless stories on your journey.",
     "NoOfRatings": 19,
     "Summary": "Embark on a journey through India\u2019s most iconic forts and palaces, where history, grandeur, and architectural brilliance come to life. From the majestic Amer Fort to the opulent Mysore Palace, each destination offers a glimpse into the country\u2019s regal past. To explore more of Rajasthan\u2019s royal heritage, check out our <a href='https://www.eazetours.com/packages/royal-rajasthan-tour-package-india' class='text-[#025C7A] font-semibold'>Rajasthan Tour Packages</a> for a deeper dive into its vibrant culture. For a truly luxurious experience, consider the <a href='https://www.eazetours.com/packages/palace-on-wheels-tour-package-india' class='text-[#025C7A] font-semibold'>Palace on Wheels Tour Package</a>\u2014a royal train journey that takes you through Rajasthan\u2019s most magnificent landmarks in unparalleled comfort. Let <a href='https://www.eazetours.com' class='text-[#025C7A] font-semibold'>Eaze Tours</a> craft an unforgettable adventure through India\u2019s royal splendor!",
@@ -230,7 +234,11 @@
         "Line": "28.6139 77.2090 27.3500 75.0167 26.9124 75.7873 26.4499 74.6399 27.1767 78.0081"
       }
     },
-    "TouristType": ["History Buffs", "Architecture Lovers", "Cultural Explorers"],
+    "TouristType": [
+      "History Buffs",
+      "Architecture Lovers",
+      "Cultural Explorers"
+    ],
     "TourCompanion": {
       "Name": "Royal Heritage Guide",
       "Description": "Expert cultural guides, private transport, multilingual support"
@@ -337,7 +345,10 @@
       }
     ],
     "Name": "North East Gangtok Tour Packages",
-    "Tags": ["adventure", " culture"],
+    "Tags": [
+      "adventure",
+      " culture"
+    ],
     "LocationDescription": "BAGDOGRA AIRPORT-GANGTOK- KALIMPONG-DARJEELING",
     "Uri": "north-east-tour-gangtok-india",
     "Title": "North East Tour-Gangtok Package India - Eaze Tours",
@@ -357,7 +368,11 @@
         "Line": "27.3389 88.6065 27.0646 88.4711 27.0360 88.2627"
       }
     },
-    "TouristType": ["Nature Lovers", "Hill Station Seekers", "Family Vacationers"],
+    "TouristType": [
+      "Nature Lovers",
+      "Hill Station Seekers",
+      "Family Vacationers"
+    ],
     "TourCompanion": {
       "Name": "North East Travel Expert",
       "Description": "Professional guide, local support, and transportation team"
@@ -427,7 +442,10 @@
       }
     ],
     "Name": "Jewels of the North East - Darjeeling 4 Days Tour Package",
-    "Tags": ["adventure", " culture"],
+    "Tags": [
+      "adventure",
+      " culture"
+    ],
     "LocationDescription": "Darjeeling",
     "Uri": "north-east-tour-darjeeling-india",
     "Title": "North East Tour-Darjeeling Package India - Eaze Tours",
@@ -447,7 +465,11 @@
         "Line": "27.0360 88.2627 27.0622 88.2767"
       }
     },
-    "TouristType": ["Nature Lovers", "Tea Trail Explorers", "Leisure Travellers"],
+    "TouristType": [
+      "Nature Lovers",
+      "Tea Trail Explorers",
+      "Leisure Travellers"
+    ],
     "TourCompanion": {
       "Name": "EazeTours Local Guide",
       "Description": "Experienced guide for sightseeing, local insights, and cultural tips"
@@ -634,8 +656,11 @@
         "Day": "12"
       }
     ],
-    "Name": "Mountain Bike Tour Package: Manali to Leh",
-    "Tags": ["adventure", " culture"],
+    "Name": "Himalayan Adventure Tour – Mountain Bike Manali to Leh",
+    "Tags": [
+      "adventure",
+      " culture"
+    ],
     "LocationDescription": "Manali\u2013Keylong\u2013Jispa-Darcha-Suraj Tal-Baralachal Pass-Sarchu\u2013Pang\u2013Dibiring-Tsokar-Sumdah \u2013Tsomoriri-Mahay BrIdge-Chumathang\u2013Leh-Nubra Valley-Diskit-Lamayuru-Leh",
     "Uri": "mountain-bike-tour-manali-leh-travel-package",
     "Title": "Mountain Bike Tour Manali Leh Travel Package - Eaze Tours",
@@ -655,7 +680,11 @@
         "Line": "32.2396 77.1887 32.2432 77.1898 34.1526 77.5770"
       }
     },
-    "TouristType": ["Adventure Cyclists", "Extreme Sports Enthusiasts", "Altitude Challengers"],
+    "TouristType": [
+      "Adventure Cyclists",
+      "Extreme Sports Enthusiasts",
+      "Altitude Challengers"
+    ],
     "TourCompanion": {
       "Name": "Himalayan Bike Support Team",
       "Description": "Expert cycling guide, mechanic, medical vehicle, oxygen, spares"
@@ -829,7 +858,10 @@
       }
     ],
     "Name": "Markha Valley Trekking Tour in India",
-    "Tags": ["adventure", " culture"],
+    "Tags": [
+      "adventure",
+      " culture"
+    ],
     "LocationDescription": "Leh \u2013 Spituk (Kali Temple) - Zinchen-Yurutse \u2013 Gondala\u2013 Shingo \u2013 Skyu-Markha Village \u2013 Hankar \u2013 Thachunche-Nimaling \u2013 Shang Sumdo-Hemis \u2013 Leh",
     "Uri": "markha-trek-leh-travel-package",
     "Title": "Trekking Tour in India: Markha Trek Adventure - Eaze Tours",
@@ -849,7 +881,11 @@
         "Line": "34.1526 77.5770 34.0167 77.6833 33.9881 77.6216"
       }
     },
-    "TouristType": ["Trekking Enthusiasts", "Nature Lovers", "Spiritual Seekers"],
+    "TouristType": [
+      "Trekking Enthusiasts",
+      "Nature Lovers",
+      "Spiritual Seekers"
+    ],
     "TourCompanion": {
       "Name": "Markha Trek Support Crew",
       "Description": "Experienced mountain guide, cook, mule handlers, safety team"
@@ -995,7 +1031,10 @@
       }
     ],
     "Name": "North East Tour Package",
-    "Tags": ["adventure", " culture"],
+    "Tags": [
+      "adventure",
+      " culture"
+    ],
     "LocationDescription": "Kolkata \u2013 Bagdogra - Darjeeling - Pemayangste - Gangtok - Rumtek-Monastery - Jalpaiguri",
     "Uri": "high-on-sky-north-east-tour-india",
     "Title": "North East Tour Package India - Kolkata to Gangtok",
@@ -1015,7 +1054,11 @@
         "Line": "22.5726 88.3639 27.0360 88.2627 27.3314 88.6138"
       }
     },
-    "TouristType": ["Cultural Enthusiasts", "Spiritual Seekers", "Nature Lovers"],
+    "TouristType": [
+      "Cultural Enthusiasts",
+      "Spiritual Seekers",
+      "Nature Lovers"
+    ],
     "TourCompanion": {
       "Name": "EazeTours Cultural Escort",
       "Description": "Local guide with deep knowledge of Eastern Indian heritage and traditions"
@@ -1248,7 +1291,10 @@
       }
     ],
     "Name": "Ladakh and Kashmir Tour Package",
-    "Tags": ["adventure", " culture"],
+    "Tags": [
+      "adventure",
+      " culture"
+    ],
     "LocationDescription": "Delhi - Manali - Keylong - Hemis - Pangong Lake - Tso Moriri Lake - Thiksey - Shey palace - Sankar gompa - Lamayuru - Likir - Alchi - Srinagar",
     "Uri": "delhi-ladakh-kashmir-srinagar-india",
     "Title": "Ladakh & Kashmir Tour Package India | Delhi to Srinagar",
@@ -1268,7 +1314,11 @@
         "Line": "28.6139 77.2090 32.2432 77.1898 34.1526 77.5770 34.0837 74.7973"
       }
     },
-    "TouristType": ["Cultural Explorers", "Mountain Lovers", "Spiritual Seekers"],
+    "TouristType": [
+      "Cultural Explorers",
+      "Mountain Lovers",
+      "Spiritual Seekers"
+    ],
     "TourCompanion": {
       "Name": "Local Cultural Guide Team",
       "Description": "Professional driver-guide, local cultural experts, medical support, and logistics crew"
@@ -1457,7 +1507,10 @@
       }
     ],
     "Name": "Delhi to Leh Ladakh Travel Package",
-    "Tags": ["adventure", " culture"],
+    "Tags": [
+      "adventure",
+      " culture"
+    ],
     "LocationDescription": "Delhi - Leh - Lamayuru - Uleytopko - Alchi - Nubra - Pangong",
     "Uri": "delhi-leh-ladakh-travel-package",
     "Title": "Delhi Leh Ladakh Travel Package India - Eaze Tours",
@@ -1477,7 +1530,11 @@
         "Line": "28.6139 77.2090 34.1526 77.5770"
       }
     },
-    "TouristType": ["Cultural Explorers", "Mountain Lovers", "Heritage Seekers"],
+    "TouristType": [
+      "Cultural Explorers",
+      "Mountain Lovers",
+      "Heritage Seekers"
+    ],
     "TourCompanion": {
       "Name": "EazeTours Himalayan Support Team",
       "Description": "Expert guide, cultural storyteller, medical support, transport crew"
@@ -1692,8 +1749,11 @@
         "Day": "14"
       }
     ],
-    "Name": "Ayurveda Tour in India: Rejuvenate Your Body and Mind",
-    "Tags": ["ayurveda", "wellness"],
+    "Name": "Ayurveda Tour in India – Rejuvenating Kerala Wellness Retreat",
+    "Tags": [
+      "ayurveda",
+      "wellness"
+    ],
     "LocationDescription": "Kerala",
     "Uri": "ayurveda-tour-package-kerala-india",
     "Title": "Ayurveda Tour Package India | Kerala Wellness Tour",
@@ -1713,7 +1773,11 @@
         "Line": "8.5074 74.2200 12.9716 77.5946"
       }
     },
-    "TouristType": ["Wellness Seekers", "Holistic Healing Enthusiasts", "Ayurveda Followers"],
+    "TouristType": [
+      "Wellness Seekers",
+      "Holistic Healing Enthusiasts",
+      "Ayurveda Followers"
+    ],
     "TourCompanion": {
       "Name": "Certified Ayurveda Support Team",
       "Description": "Qualified Ayurveda doctor, massage therapists, daily consultation, personalized diet plan"
@@ -1929,7 +1993,10 @@
       }
     ],
     "Name": "South India Chennai to Cochin Tour Package",
-    "Tags": ["cultural", "traditional "],
+    "Tags": [
+      "cultural",
+      "traditional "
+    ],
     "LocationDescription": "Chennai-Cochin-Mahabalipuram-Kanchipuram-Pondichery-ChIdambaram -Thanjavur- Trichy-Chettinad-Madurai-Periyar-Kumarakom-House Boat-Alleppey-Cochin",
     "Uri": "south-india-chennai-cochin-tour-india",
     "Title": "Magical South India Chennai Cochin Tours with Eaze Tours",
@@ -1949,7 +2016,11 @@
         "Line": "13.0827 80.2707 9.9252 78.1198 10.8505 76.2711"
       }
     },
-    "TouristType": ["Cultural Explorers", "Temple Tourists", "Nature Enthusiasts"],
+    "TouristType": [
+      "Cultural Explorers",
+      "Temple Tourists",
+      "Nature Enthusiasts"
+    ],
     "TourCompanion": {
       "Name": "South India Tour Escort",
       "Description": "Experienced local guide, private transport, temple protocol assistance"
@@ -2123,7 +2194,10 @@
       }
     ],
     "Name": "Book Kerala Holiday Tour Packages Online",
-    "Tags": ["cultural", "traditional "],
+    "Tags": [
+      "cultural",
+      "traditional "
+    ],
     "LocationDescription": "Cochin -Munnar- Periyar-Kumarakom-Alleppey-Kovlam-Trivandrum",
     "Uri": "kerala-cochin-trivandrum-tour-india",
     "Title": "Kerala Tour Packages - God's Own Country - Eaze Tours",
@@ -2143,7 +2217,11 @@
         "Line": "9.9312 76.2673 10.0889 77.0595 9.5937 76.5222 8.4375 76.9784"
       }
     },
-    "TouristType": ["Nature Lovers", "Cultural Explorers", "Leisure Travelers"],
+    "TouristType": [
+      "Nature Lovers",
+      "Cultural Explorers",
+      "Leisure Travelers"
+    ],
     "TourCompanion": {
       "Name": "Kerala Travel Escort",
       "Description": "Experienced guide with local knowledge and cultural expertise"
@@ -2276,7 +2354,10 @@
       }
     ],
     "Name": "Taj Mahal and Tiger Safari Package India",
-    "Tags": ["cultural", "traditional "],
+    "Tags": [
+      "cultural",
+      "traditional "
+    ],
     "LocationDescription": "Delhi-Agra- Fatehpur Sikri-Ranthambhore-Jaipur-Delhi",
     "Uri": "tajmahal-and-tiger-safari-tour-india",
     "Title": "Taj Mahal and Tiger Safari Tour in India - Eaze Tours",
@@ -2296,7 +2377,11 @@
         "Line": "28.6139 77.2090 27.1767 78.0081 26.0173 76.5026 26.9124 75.7873"
       }
     },
-    "TouristType": ["Cultural Explorers", "Wildlife Enthusiasts", "First-Time India Travellers"],
+    "TouristType": [
+      "Cultural Explorers",
+      "Wildlife Enthusiasts",
+      "First-Time India Travellers"
+    ],
     "TourCompanion": {
       "Name": "Local Cultural & Wildlife Guides",
       "Description": "Professional English-speaking guides with deep knowledge of heritage and wildlife"
@@ -2472,7 +2557,10 @@
       }
     ],
     "Name": "Romantic Kerala Honeymoon Tour Package",
-    "Tags": ["honeymoon", "relaxation"],
+    "Tags": [
+      "honeymoon",
+      "relaxation"
+    ],
     "LocationDescription": "Cochin-Munnar -Periyar-Alleppey-Kovlam-Trivandrum",
     "Uri": "romantic-kerala-tour-package-india",
     "Title": "Romantic Kerala Tour Package for Couples - Eaze Tours",
@@ -2492,7 +2580,11 @@
         "Line": "9.9312 76.2673 10.0889 77.0595 9.5916 76.5222 8.5241 76.9366"
       }
     },
-    "TouristType": ["Nature Lovers", "Romantic Couples", "Cultural Explorers"],
+    "TouristType": [
+      "Nature Lovers",
+      "Romantic Couples",
+      "Cultural Explorers"
+    ],
     "TourCompanion": {
       "Name": "EazeTours Kerala Guide Team",
       "Description": "Knowledgeable guide, private car driver, cultural interpreters"
@@ -2609,8 +2701,11 @@
         "Day": "7"
       }
     ],
-    "Name": "Romantic Andaman Honeymoon Tour Package",
-    "Tags": ["honeymoon", "relaxation"],
+    "Name": "Romantic Andaman Package – Perfect Honeymoon Tour in India",
+    "Tags": [
+      "honeymoon",
+      "relaxation"
+    ],
     "LocationDescription": "PORT BLAIR \u2013 HAVELOCK ISLAND-PORT BLAIR",
     "Uri": "romantic-andaman-tour-package-india",
     "Title": "Romantic Andaman Tour Package for Couples - Eaze Tours",
@@ -2630,7 +2725,11 @@
         "Line": "11.6234 92.7265 12.0056 92.9904 11.9441 92.7874"
       }
     },
-    "TouristType": ["Honeymooners", "Couples", "Beach Lovers"],
+    "TouristType": [
+      "Honeymooners",
+      "Couples",
+      "Beach Lovers"
+    ],
     "TourCompanion": {
       "Name": "Local Island Tour Support Team",
       "Description": "Experienced guides, water activity instructors, ferry coordinators"
@@ -2748,7 +2847,10 @@
       }
     ],
     "Name": "Exotic Manali Sightseeing Tour Package",
-    "Tags": ["honeymoon", "relaxation"],
+    "Tags": [
+      "honeymoon",
+      "relaxation"
+    ],
     "LocationDescription": "Delhi-Chandigarh - Manali-Rohtang-Manali-Chandigarh",
     "Uri": "exotic-manali-tour-package-india",
     "Title": "Book Manali Exotic Packages at Best Price - Eaze Tours",
@@ -2768,7 +2870,11 @@
         "Line": "30.7333 76.7794 32.2396 77.1887"
       }
     },
-    "TouristType": ["Family Travellers", "Nature Lovers", "Cultural Explorers"],
+    "TouristType": [
+      "Family Travellers",
+      "Nature Lovers",
+      "Cultural Explorers"
+    ],
     "TourCompanion": {
       "Name": "EazeTours Ground Team",
       "Description": "Experienced guide, transportation crew, and 24/7 travel assistance"
@@ -2900,7 +3006,10 @@
       }
     ],
     "Name": "Golden Chariot Tour Package Luxurious Journey Through South India",
-    "Tags": ["luxury", "royal"],
+    "Tags": [
+      "luxury",
+      "royal"
+    ],
     "LocationDescription": "Bangalore - Kabini/Bandipur - Mysore - Hassan - Hospet - Badami - Goa - Bangalore",
     "Uri": "golden-chariot-bangalore-mysore-goa-tour-package-india",
     "Title": "The Golden Chariot Tour Package India - Eaze Tours",
@@ -2920,7 +3029,11 @@
         "Line": "12.9716 77.5946 15.3173 75.7139 15.2993 74.1240"
       }
     },
-    "TouristType": ["Luxury Travelers", "Cultural Explorers", "Wildlife Enthusiasts"],
+    "TouristType": [
+      "Luxury Travelers",
+      "Cultural Explorers",
+      "Wildlife Enthusiasts"
+    ],
     "TourCompanion": {
       "Name": "Golden Chariot Hospitality Team",
       "Description": "Multilingual guides, butler service, onboard chef, cultural hosts"
@@ -3052,7 +3165,10 @@
       }
     ],
     "Name": "Rajasthan Tour Packages",
-    "Tags": ["luxury", "royal"],
+    "Tags": [
+      "luxury",
+      "royal"
+    ],
     "LocationDescription": "Delhi-Jodhpur-Udaipur-Chittorgarh-SawaiMadhopur-Jaipur-Khajuraho-Varanasi (Banaras)-Agra",
     "Uri": "royal-rajasthan-tour-package-india",
     "Title": "Best Rajasthan Tour Packages India - Eaze Tours",
@@ -3072,7 +3188,11 @@
         "Line": "28.6139 77.2090 26.2389 73.0243 24.5854 73.7125 24.8887 74.6269 26.0173 76.3560 25.3176 82.9739 27.1767 78.0081"
       }
     },
-    "TouristType": ["Cultural Enthusiasts", "Luxury Travelers", "History Buffs"],
+    "TouristType": [
+      "Cultural Enthusiasts",
+      "Luxury Travelers",
+      "History Buffs"
+    ],
     "TourCompanion": {
       "Name": "EazeTours Cultural Escorts",
       "Description": "Expert guides for each city, onboard train hospitality, multilingual support"
@@ -3206,7 +3326,10 @@
       }
     ],
     "Name": "Palace on Wheels Tour Package",
-    "Tags": ["luxury", "royal"],
+    "Tags": [
+      "luxury",
+      "royal"
+    ],
     "LocationDescription": "New Delhi - Jaipur - Sawai Madhopur - Chittorgarh - Udaipur - Jaisalmer - Jodhpur - Bharatpur - Agra - Delhi",
     "Uri": "palace-on-wheels-tour-package-india",
     "Title": "Palace on Wheels Tour Package India - Ease Tours",
@@ -3226,7 +3349,11 @@
         "Line": "28.6139 77.2090 26.9124 75.7873 24.5854 73.7125 26.9157 70.9083 26.2389 73.0243 27.1767 78.0081"
       }
     },
-    "TouristType": ["Luxury Travellers", "Heritage Explorers", "Train Journey Enthusiasts"],
+    "TouristType": [
+      "Luxury Travellers",
+      "Heritage Explorers",
+      "Train Journey Enthusiasts"
+    ],
     "TourCompanion": {
       "Name": "Palace on Wheels Hospitality Crew",
       "Description": "Onboard concierge, multilingual guides, and heritage experts"
@@ -3359,7 +3486,10 @@
       }
     ],
     "Name": "Buddhist Pilgrimage Tour \u2013 A Spiritual Journey Through India",
-    "Tags": ["pilgrim", "spirituality"],
+    "Tags": [
+      "pilgrim",
+      "spirituality"
+    ],
     "LocationDescription": "Delhi-Agra-Varanas-Bodhgaya-Vaishali-Kushinagar-Lumbini-Shravasti-Gorakhpur",
     "Uri": "buddhist-pilgrimage-tour-package-india",
     "Title": "Buddhist Pilgrimage Tour Package India - Eaze Tours",
@@ -3379,7 +3509,11 @@
         "Line": "28.6139 77.2090 26.7397 83.3891 25.3831 85.5341 24.6952 84.9913 25.3176 82.9739"
       }
     },
-    "TouristType": ["Spiritual Seekers", "Pilgrims", "Buddhist Devotees"],
+    "TouristType": [
+      "Spiritual Seekers",
+      "Pilgrims",
+      "Buddhist Devotees"
+    ],
     "TourCompanion": {
       "Name": "Buddhist Heritage Guide Team",
       "Description": "Expert local guides, multilingual narrators, heritage scholars"
@@ -3557,8 +3691,11 @@
         "Day": "11"
       }
     ],
-    "Name": "Chardham Pilgrimage Tour Package",
-    "Tags": ["pilgrim", "spirituality"],
+    "Name": "Indian Pilgrimage Packages – Complete Char Dham Tour Itinerary",
+    "Tags": [
+      "pilgrim",
+      "spirituality"
+    ],
     "LocationDescription": "Delhi-Rishikesh-Barkot\u2013Jankichatti\u2013Yamunotri-Harsil-Gangotri-Uttarkashi-Guptkashi\u2013Kedarnath-Rudraprayag-Badrinath\u2013 Srinagar-HarIdwar",
     "Uri": "chardham-pilgrimage-tour-package-india",
     "Title": "Chardham Pilgrimage Tour Package India \u2013 Eaze Tours",
@@ -3578,7 +3715,11 @@
         "Line": "30.0668 78.2676 30.8560 78.4458 30.9988 78.9398 30.7433 79.4930"
       }
     },
-    "TouristType": ["Pilgrims", "Spiritual Seekers", "Devotees"],
+    "TouristType": [
+      "Pilgrims",
+      "Spiritual Seekers",
+      "Devotees"
+    ],
     "TourCompanion": {
       "Name": "Chardham Yatra Support Team",
       "Description": "Experienced guides, on-ground assistance, medical support, and pilgrimage coordinators"
@@ -3796,7 +3937,10 @@
       }
     ],
     "Name": "North India Temple Tour Package",
-    "Tags": ["pilgrim", "spirituality"],
+    "Tags": [
+      "pilgrim",
+      "spirituality"
+    ],
     "LocationDescription": "DELHI\u2013AMRITSAR-DHARMSHALA-SHIMLA-KUFRI-RISHIKESH\u2013HARIdWAR-DELHI-VARANASI",
     "Uri": "north-india-temple-tour-package-india",
     "Title": "North India Temple Tour Package - Eaze Tours",
@@ -3816,7 +3960,11 @@
         "Line": "28.6139 77.2090 31.6340 74.8723 32.2432 76.3221 31.1048 77.1734 30.0869 78.2676 25.3176 82.9739"
       }
     },
-    "TouristType": ["Spiritual Seekers", "Cultural Enthusiasts", "Religious Pilgrims"],
+    "TouristType": [
+      "Spiritual Seekers",
+      "Cultural Enthusiasts",
+      "Religious Pilgrims"
+    ],
     "TourCompanion": {
       "Name": "EazeTours Cultural Tour Guide",
       "Description": "Friendly and knowledgeable guide well-versed in North India's religious and cultural history"
@@ -4040,7 +4188,10 @@
       }
     ],
     "Name": "Orissa Tour Package India",
-    "Tags": ["tribal", "heritage"],
+    "Tags": [
+      "tribal",
+      "heritage"
+    ],
     "LocationDescription": "DELHI-BHUBANESHWAR-RATNA GIRI-BALIGUDA-BELGHAR-KOTHAGARGH-RAYAGADA-JEYPORE-LAXMIPUR-RAYAGADA-TAPTAOANI-CHILKA-PURI",
     "Uri": "orissa-tour-package-india",
     "Title": "Orissa Tour Package India: Explore Ancient Temples",
@@ -4296,7 +4447,10 @@
       }
     ],
     "Name": "Orissa & Chhattisgarh Tour Package",
-    "Tags": ["tribal", "heritage"],
+    "Tags": [
+      "tribal",
+      "heritage"
+    ],
     "LocationDescription": "BHUBANESWAR-PURI-KONARK-BALLIGUDA-RAYAGADA-CHATIKONA-JEYPORE-JAGDALPUR-CHITRAKUT-NARAYANPUR-RAIPUR",
     "Uri": "orissa-chattisgarh-tour-package-india",
     "Title": "Orissa Chattisgarh Tour Package India - Eaze Tours",
@@ -4316,7 +4470,11 @@
         "Line": "20.2961 85.8245 19.8106 83.4150 19.0748 82.1511 21.2514 81.6296"
       }
     },
-    "TouristType": ["Cultural Enthusiasts", "Tribal Heritage Explorers", "Offbeat India Travelers"],
+    "TouristType": [
+      "Cultural Enthusiasts",
+      "Tribal Heritage Explorers",
+      "Offbeat India Travelers"
+    ],
     "TourCompanion": {
       "Name": "Tribal Culture Guide Team",
       "Description": "Local experts in history, anthropology, and regional culture."
@@ -4505,7 +4663,10 @@
     ],
     "Name": "Tiger Safari India Tour Packages",
     "LocationDescription": "DELHI-SAWAI-MADHOPUR-RANTHAMBHORE- FATEHPUR SIKRI-AGRA-KATNI-BANDHAVGARH-KANHA-NAGPUR",
-    "Tags": ["wildlife", "nature"],
+    "Tags": [
+      "wildlife",
+      "nature"
+    ],
     "Uri": "tiger-safari-tour-india",
     "Title": "Book Luxury Tiger Safari Tours in India - Eaze Tours",
     "Description": "Experience the thrill of a Tiger Safari in India with Eaze Tours. Explore wildlife sanctuaries and get up close with majestic tigers in their natural habitat. Book Now!",
@@ -4524,7 +4685,11 @@
         "Line": "26.0000 75.0000 23.4092 80.9350 22.0250 81.7835"
       }
     },
-    "TouristType": ["Wildlife Enthusiasts", "Nature Lovers", "Adventure Seekers"],
+    "TouristType": [
+      "Wildlife Enthusiasts",
+      "Nature Lovers",
+      "Adventure Seekers"
+    ],
     "TourCompanion": {
       "Name": "Wildlife Safari Support Team",
       "Description": "Expert safari guides, wildlife spotters, drivers"
@@ -4740,7 +4905,10 @@
       }
     ],
     "Name": "Gujarat Tribal Tour Packages in India",
-    "Tags": ["tribal", "heritage"],
+    "Tags": [
+      "tribal",
+      "heritage"
+    ],
     "LocationDescription": "Mumbai-Baroda-Bhuj-Ahmedamad-Utellia-Balaram-Patan-Little Rann of Kutch-Bhuj",
     "Uri": "gujarat-tribal-tour-package-india",
     "Title": "Gujarat Tribal Tour Packages India - Eaze Tours",
@@ -4760,7 +4928,11 @@
         "Line": "22.3095 73.1812 23.0225 72.5714 22.6726 71.6622"
       }
     },
-    "TouristType": ["Culture Enthusiasts", "Tribal Culture Explorers", "Adventure Seekers"],
+    "TouristType": [
+      "Culture Enthusiasts",
+      "Tribal Culture Explorers",
+      "Adventure Seekers"
+    ],
     "TourCompanion": {
       "Name": "Tribal Culture Expert Guide",
       "Description": "Expert guide specializing in tribal cultures, heritage, and traditions of Gujarat"
@@ -4934,7 +5106,10 @@
       }
     ],
     "Name": "South India Temple Tour Package",
-    "Tags": ["pilgrim", "spirituality"],
+    "Tags": [
+      "pilgrim",
+      "spirituality"
+    ],
     "LocationDescription": "Chennai \u2013 Mahabalipuram \u2013 Pondicherry \u2013 Thanjavur \u2013 Trichy \u2013 Madurai \u2013 Bangalore \u2013 Mysore - Hassan",
     "Uri": "south-india-temple-tour-package-india",
     "Title": "South India Temple Tour Package - Eaze Tours",
@@ -4954,7 +5129,11 @@
         "Line": "13.0827 80.2707 12.9250 79.4545 11.6149 78.1511"
       }
     },
-    "TouristType": ["Cultural Enthusiasts", "History Buffs", "Temple Explorers"],
+    "TouristType": [
+      "Cultural Enthusiasts",
+      "History Buffs",
+      "Temple Explorers"
+    ],
     "TourCompanion": {
       "Name": "Temple Tour Expert",
       "Description": "Experienced guide with deep knowledge of South Indian temples, history, and culture"
@@ -5200,7 +5379,10 @@
       }
     ],
     "Name": "Royal Delhi, Jaipur & Agra Golden Triangle Tour Package",
-    "Tags": ["cultural", "traditional "],
+    "Tags": [
+      "cultural",
+      "traditional "
+    ],
     "LocationDescription": "Delhi \u2013 Mandawa \u2013 Bikaner \u2013 Khimsar \u2013 Jasailmer \u2013 Jodhpur \u2013 Rohetgarh \u2013 Ranakpur \u2013 Udaipur \u2013 Pushkar \u2013 Jaipur \u2013 Agra \u2013 Delhi",
     "Uri": "royal-delhi-jaipur-agra-tour-package-india",
     "Title": "Royal Delhi Jaipur Agra Tour Package India - Eaze Tours",
@@ -5220,7 +5402,11 @@
         "Line": "28.6139 77.2090 26.9124 75.7873 27.1767 78.0422"
       }
     },
-    "TouristType": ["Cultural Explorers", "Heritage Enthusiasts", "Historical Sightseeing Lovers"],
+    "TouristType": [
+      "Cultural Explorers",
+      "Heritage Enthusiasts",
+      "Historical Sightseeing Lovers"
+    ],
     "TourCompanion": {
       "Name": "Golden Triangle Tour Guides",
       "Description": "Expert local guides for historical insights, photography, and cultural immersion"
@@ -5367,7 +5553,10 @@
       }
     ],
     "Name": "Classical Delhi, Jaipur, Agra, Khajuraho & Varanasi Tour Package",
-    "Tags": ["cultural", "traditional "],
+    "Tags": [
+      "cultural",
+      "traditional "
+    ],
     "LocationDescription": "Classical Delhi, Jaipur, Agra, Khajuraho & Varanasi Tour Package",
     "Uri": "classical-delhi-jaipur-agra-khajurao-varanasi-tour-india",
     "Title": "Explore Delhi Jaipur Agra Khajuraho Varanasi with Eaze Tours",
@@ -5387,7 +5576,11 @@
         "Line": "28.6139 77.2090 26.9124 75.7873 27.1767 78.0081 24.8014 79.9204"
       }
     },
-    "TouristType": ["Cultural Enthusiasts", "History Buffs", "Spiritual Seekers"],
+    "TouristType": [
+      "Cultural Enthusiasts",
+      "History Buffs",
+      "Spiritual Seekers"
+    ],
     "TourCompanion": {
       "Name": "India Culture and History Guide Team",
       "Description": "Experienced tour guides specializing in India's rich culture, history, and spirituality"
@@ -5605,7 +5798,10 @@
       }
     ],
     "Name": "India's Wildlife Tour Packages: A Journey into the Wild",
-    "Tags": ["wildlife", "nature"],
+    "Tags": [
+      "wildlife",
+      "nature"
+    ],
     "LocationDescription": "Delhi \u2013 Jaipur \u2013 Ranthambore \u2013 Bharatpur \u2013 Agra \u2013 Umaria \u2013 Bandhavgarhh \u2013 Kanha \u2013 Jabalpur",
     "Uri": "wildlife-safari-tour-package-india",
     "Title": "Wildlife Tour Packages India | India Wildlife Safari Tours",
@@ -5625,7 +5821,11 @@
         "Line": "27.1745 77.4895 23.3298 80.1002 22.2674 81.5885"
       }
     },
-    "TouristType": ["Wildlife Enthusiasts", "Nature Lovers", "Photographers"],
+    "TouristType": [
+      "Wildlife Enthusiasts",
+      "Nature Lovers",
+      "Photographers"
+    ],
     "TourCompanion": {
       "Name": "Wildlife Safari Expert",
       "Description": "Expert naturalist, safari guide, medical vehicle, first-aid kit"
@@ -5785,7 +5985,10 @@
       }
     ],
     "Name": "Shekhawati Havelis Delhi-Bikaner-Mandawa-Jaipur Tour: A Cultural Journey",
-    "Tags": ["cultural", "traditional "],
+    "Tags": [
+      "cultural",
+      "traditional "
+    ],
     "LocationDescription": " Delhi \u2013 Bikaner \u2013 Mandawa \u2013 Jaipur - Delhi",
     "Uri": "sekhawati-havelis-delhi-bikaner-mandawa-jaipur-tour-india",
     "Title": "Sekhawati Havelis Tour: Delhi, Bikaner, Mandawa, Jaipur",
@@ -5805,7 +6008,11 @@
         "Line": "28.2100 75.1500"
       }
     },
-    "TouristType": ["Cultural Enthusiasts", "Heritage Lovers", "History Buffs"],
+    "TouristType": [
+      "Cultural Enthusiasts",
+      "Heritage Lovers",
+      "History Buffs"
+    ],
     "TourCompanion": {
       "Name": "Shekhawati Cultural Tour Guide",
       "Description": "Expert local guide providing insights into the region's history and culture"
@@ -6063,7 +6270,10 @@
       }
     ],
     "Name": "South India Tour Package: Mumbai to Chennai Highlights",
-    "Tags": ["cultural", "traditional "],
+    "Tags": [
+      "cultural",
+      "traditional "
+    ],
     "LocationDescription": "Mumbai \u2013 Bangalore \u2013 Hassan \u2013 Mysore \u2013 Ooty \u2013 Cochin \u2013 Kumarakom \u2013 Periyar \u2013 Madurai \u2013 Trichy \u2013 Thanjavur \u2013 Pondicherry \u2013 Mammalapuram \u2013 Kanchipuram \u2013 Chennai \u2013 Mumbai",
     "Uri": "south-india-tour-package-india",
     "Title": "South India Tour Packages: Mumbai to Chennai Highlights",
@@ -6083,7 +6293,11 @@
         "Line": "11.0168 76.9558 13.0827 80.2707 12.9716 77.5946 9.9399 78.1198"
       }
     },
-    "TouristType": ["Cultural Enthusiasts", "Heritage Explorers", "Nature Lovers"],
+    "TouristType": [
+      "Cultural Enthusiasts",
+      "Heritage Explorers",
+      "Nature Lovers"
+    ],
     "TourCompanion": {
       "Name": "South India Tour Support Team",
       "Description": "Tour guides, drivers, and emergency support staff"
@@ -6311,7 +6525,10 @@
       }
     ],
     "Name": "Gujarat 15 Days Tour Package India",
-    "Tags": ["cultural", "traditional "],
+    "Tags": [
+      "cultural",
+      "traditional "
+    ],
     "LocationDescription": "Ahmedabad-Taranga-Vijaynagar-Zainabad-Bhuj-Jamnagar-Dwarka\u2013 Junagadh-Bhavnagar",
     "Uri": "gujarat-tour-15-days-package-india",
     "Title": "Gujarat 15 Days Tour Package India - Eaze Tours",
@@ -6331,7 +6548,11 @@
         "Line": "22.2587 71.1924 22.3157 71.5774"
       }
     },
-    "TouristType": ["Cultural Explorers", "History Enthusiasts", "Nature Lovers"],
+    "TouristType": [
+      "Cultural Explorers",
+      "History Enthusiasts",
+      "Nature Lovers"
+    ],
     "TourCompanion": {
       "Name": "Gujarat Tour Guide Team",
       "Description": "Experienced local guides with in-depth knowledge of Gujarat's culture, history, and attractions"
@@ -6351,7 +6572,9 @@
     "Itinerary": [
       {
         "Name": "Arrive Delhi",
-        "Description": ["Met on arrival and transfer to hotel."],
+        "Description": [
+          "Met on arrival and transfer to hotel."
+        ],
         "Id": 1,
         "Day": "1"
       },
@@ -6497,7 +6720,10 @@
       }
     ],
     "Name": "Rajasthan 11 days Tour Package from Delhi India",
-    "Tags": ["cultural", "traditional "],
+    "Tags": [
+      "cultural",
+      "traditional "
+    ],
     "LocationDescription": "Delhi \u2013 Mandawa \u2013 Bikaner \u2013 Jasailmer \u2013 Jodhpur - Jaipur \u2013 Agra \u2013 Delhi",
     "Uri": "forts-of-rajasthan-from-delhi-11-days-package-india",
     "Title": "Rajasthan 11 Days Tour Package from Delhi - Eaze Tours",
@@ -6517,7 +6743,11 @@
         "Line": "27.0238 74.2179"
       }
     },
-    "TouristType": ["History Enthusiasts", "Culture Seekers", "Family Travelers"],
+    "TouristType": [
+      "History Enthusiasts",
+      "Culture Seekers",
+      "Family Travelers"
+    ],
     "TourCompanion": {
       "Name": "Rajasthan Travel Guide",
       "Description": "Expert guide for cultural, historical, and architectural insights"
@@ -6630,7 +6860,10 @@
       }
     ],
     "Name": "Golden Triangle Tour Package in India",
-    "Tags": ["cultural", "traditional "],
+    "Tags": [
+      "cultural",
+      "traditional "
+    ],
     "LocationDescription": "Delhi\u2013 Agra\u2013 Jaipur\u2013 Delhi",
     "Uri": "golden-triangle-delhi-agra-jaipur-7-days-package-india",
     "Title": "Golden Triangle Delhi Agra Jaipur 7 Days Tour Package",
@@ -6650,7 +6883,11 @@
         "Line": "28.6448 77.216721"
       }
     },
-    "TouristType": ["Cultural Explorers", "History Enthusiasts", "Family Travelers"],
+    "TouristType": [
+      "Cultural Explorers",
+      "History Enthusiasts",
+      "Family Travelers"
+    ],
     "TourCompanion": {
       "Name": "Golden Triangle Support Team",
       "Description": "Experienced local guides, transportation, and assistance throughout the tour"
@@ -6775,8 +7012,11 @@
         "Day": "8"
       }
     ],
-    "Name": "Sri Lanka Tour Package",
-    "Tags": ["cultural", "Wildlife"],
+    "Name": "Sri Lanka Travel Package – 7 Nights / 8 Days Itinerary",
+    "Tags": [
+      "cultural",
+      "Wildlife"
+    ],
     "LocationDescription": "Delhi\u2013 Agra\u2013 Jaipur\u2013 Delhi",
     "Uri": "srilanka-tour-package-7-nights-8-days",
     "Title": "Best Sri Lanka Tour Package \u2013 7 Nights Itinerary | Eaze Tours",
@@ -6796,7 +7036,11 @@
         "Line": "28.6448 77.216721"
       }
     },
-    "TouristType": ["Cultural Explorers", "History Enthusiasts", "Family Travelers"],
+    "TouristType": [
+      "Cultural Explorers",
+      "History Enthusiasts",
+      "Family Travelers"
+    ],
     "TourCompanion": {
       "Name": "Golden Triangle Support Team",
       "Description": "Experienced local guides, transportation, and assistance throughout the tour"
@@ -6955,8 +7199,11 @@
         "Day": "10"
       }
     ],
-    "Name": "Bhutan Tour Package",
-    "Tags": ["cultural", "traditional "],
+    "Name": "Bhutan Tours and Travels – 9 Nights 10 Days Complete Package",
+    "Tags": [
+      "cultural",
+      "traditional "
+    ],
     "LocationDescription": "Delhi\u2013 Agra\u2013 Jaipur\u2013 Delhi",
     "Uri": "bhutan-tour-package-9-nights-10-days",
     "Title": "9 Nights 10 Days Bhutan Tour Package",
@@ -6976,7 +7223,11 @@
         "Line": "28.6448 77.216721"
       }
     },
-    "TouristType": ["Cultural Explorers", "History Enthusiasts", "Family Travelers"],
+    "TouristType": [
+      "Cultural Explorers",
+      "History Enthusiasts",
+      "Family Travelers"
+    ],
     "TourCompanion": {
       "Name": "Golden Triangle Support Team",
       "Description": "Experienced local guides, transportation, and assistance throughout the tour"
@@ -7171,8 +7422,11 @@
         "Day": "13"
       }
     ],
-    "Name": "Bhutan Tour Package",
-    "Tags": ["cultural", "traditional "],
+    "Name": "Bhutan Tour Package – 12 Nights / 13 Days Itinerary",
+    "Tags": [
+      "cultural",
+      "traditional "
+    ],
     "LocationDescription": "Delhi\u2013 Agra\u2013 Jaipur\u2013 Delhi",
     "Uri": "bhutan-tour-package-12-nights-13-days",
     "Title": "An Instantly Refreshing Bhutan Tour Package 12 Nights & 13 Days",
@@ -7192,7 +7446,11 @@
         "Line": "28.6448 77.216721"
       }
     },
-    "TouristType": ["Cultural Explorers", "History Enthusiasts", "Family Travelers"],
+    "TouristType": [
+      "Cultural Explorers",
+      "History Enthusiasts",
+      "Family Travelers"
+    ],
     "TourCompanion": {
       "Name": "Golden Triangle Support Team",
       "Description": "Experienced local guides, transportation, and assistance throughout the tour"
@@ -7281,8 +7539,11 @@
         "Day": "5"
       }
     ],
-    "Name": "Sri Lanka Tour Package",
-    "Tags": ["cultural", "traditional "],
+    "Name": "Sri Lanka Tour Package – 4 Nights / 5 Days Itinerary",
+    "Tags": [
+      "cultural",
+      "traditional "
+    ],
     "LocationDescription": "Delhi\u2013 Agra\u2013 Jaipur\u2013 Delhi",
     "Uri": "srilanka-tour-package-4-nights-5-days",
     "Title": "4 Nights & 5 Days of Scenic Splendor & Coastal Charm",
@@ -7302,7 +7563,11 @@
         "Line": "28.6448 77.216721"
       }
     },
-    "TouristType": ["Cultural Explorers", "History Enthusiasts", "Family Travelers"],
+    "TouristType": [
+      "Cultural Explorers",
+      "History Enthusiasts",
+      "Family Travelers"
+    ],
     "TourCompanion": {
       "Name": "Golden Triangle Support Team",
       "Description": "Experienced local guides, transportation, and assistance throughout the tour"
@@ -7462,13 +7727,18 @@
       },
       {
         "Name": "Departure from Delhi",
-        "Description": ["After breakfast, transfer to the airport for your onward journey."],
+        "Description": [
+          "After breakfast, transfer to the airport for your onward journey."
+        ],
         "Id": 11,
         "Day": "11"
       }
     ],
-    "Name": "Buddha Tour Package",
-    "Tags": ["cultural", "traditional "],
+    "Name": "11 Days Buddhist Tour Package – In the Footsteps of the Buddha",
+    "Tags": [
+      "cultural",
+      "traditional "
+    ],
     "LocationDescription": "Delhi\u2013 Agra\u2013 Jaipur\u2013 Delhi",
     "Uri": "footsteps-of-the-buddha-tour-11-days",
     "Title": "Footsteps of the Buddha Tour - 11 Days",
@@ -7488,7 +7758,11 @@
         "Line": "28.6448 77.216721"
       }
     },
-    "TouristType": ["Cultural Explorers", "History Enthusiasts", "Family Travelers"],
+    "TouristType": [
+      "Cultural Explorers",
+      "History Enthusiasts",
+      "Family Travelers"
+    ],
     "TourCompanion": {
       "Name": "Golden Triangle Support Team",
       "Description": "Experienced local guides, transportation, and assistance throughout the tour"
