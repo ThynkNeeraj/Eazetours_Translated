@@ -18,30 +18,35 @@ const DestinationsSection = ({ locale = "en" }: DestinationsSectionProps) => {
       title: destinations.locations.india.title,
       content: destinations.locations.india.content,
       bg: "/images/india.png",
+      ctaLink: "/packages"
     },
     {
       id: 2,
       title: destinations.locations.maldives.title,
       content: destinations.locations.maldives.content,
       bg: "/images/maldives.png",
+      ctaLink: "/packages"
     },
     {
       id: 3,
       title: destinations.locations.nepal.title,
       content: destinations.locations.nepal.content,
       bg: "/images/nepal.png",
+      ctaLink: "/packages"
     },
     {
       id: 4,
       title: destinations.locations.bhutan.title,
       content: destinations.locations.bhutan.content,
       bg: "/images/bhutan.png",
+      ctaLink: "packages?tab=bhutan"
     },
     {
       id: 5,
       title: destinations.locations.sriLanka.title,
       content: destinations.locations.sriLanka.content,
       bg: "/images/SRI_LANKA.webp",
+      ctaLink: "packages?tab=srilanka"
     },
   ];
 
@@ -53,6 +58,7 @@ const DestinationsSection = ({ locale = "en" }: DestinationsSectionProps) => {
           slides={destinationSlides}
           ctaText={destinations.cta}
           ctaButtonText={destinations.ctaButton}
+          ctaLink={destinations.ctaButton}
         />
       </div>
 
