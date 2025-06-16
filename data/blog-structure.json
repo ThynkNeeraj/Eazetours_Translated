@@ -1,5 +1,88 @@
 [
   {
+    "url": "best-destinations-to-visit-in-india-during-the-monsoon-season",
+    "title": "Top Monsoon Destinations in India – Andaman, Darjeeling & Manali | Eaze Tours",
+    "page_heading": "Best Destinations to Visit in India During the Monsoon Season",
+    "description": "Discover the best places to visit in India during monsoon. Explore romantic beaches, misty hills, and thrilling adventures with Andaman, Darjeeling & Manali tour packages.",
+    "image": "/images/blogs/main_image/India_During_the_Monsoon.png",
+    "feature_image": "/images/blogs/feature_image/India_During_the_Monsoon.jpg",
+    "structure": {
+      "introduction": {
+        "content": "There’s something magical about the monsoon in India. The sky turns moody, the air smells of fresh earth, and everything around looks just a little more alive. While some might choose to stay indoors, this season actually brings out a more beautiful side of a few incredible destinations. Here are three amazing places in India that truly come to life during the rainy months, each offering something completely different, and each worth experiencing at least once."
+      },
+      "main_sections": [
+        {
+          "heading": "1. Andaman Islands – Rain, Romance and the Sea",
+          "content": "The Andaman Islands are peaceful all year round, but there’s something especially dreamy about them in the monsoon. The showers breathe new life into the quiet shores and sway gently through the towering palms, creating a scene straight out of a dream. You’ll find hidden waterfalls in the forests, warm sea breezes, and beaches that aren’t packed with tourists. If you're a couple looking to escape somewhere romantic, this is the place. Imagine watching the sunset together while the sky drizzles gently, absolutely unforgettable. An {{LINK:tour_package:Andaman Tour Package}} is perfect if you're looking for a slow, romantic break by the sea, with nature and comfort beautifully balanced.",
+          "links": [
+            {
+              "key": "tour_package",
+              "text": "Andaman Tour Package",
+              "url": "/packages/romantic-andaman-tour-package-india"
+            }
+          ]
+        },
+        {
+          "heading": "2. Darjeeling – Where Clouds Hug the Hills",
+          "content": "Darjeeling is in a whole mood during the rains. Waking up to foggy mornings, sipping a hot cup of tea, and watching the clouds roll over the mountains, it feels like you're in a dream. There’s also plenty to explore. From the peaceful Japanese temple to the historic Batasia Loop and the scenic views at Tiger Hill, Darjeeling has a unique mix of culture and natural beauty. And when it rains? Everything feels quieter, greener, and more peaceful. Whether you're in it for the views, the food, or the heritage, a {{LINK:tour_package:Darjeeling Tour Package}} will give you a fresh perspective on this classic hill station.",
+          "links": [
+            {
+              "key": "tour_package",
+              "text": "Darjeeling Tour Package",
+              "url": "/packages/north-east-tour-darjeeling-india"
+            }
+          ]
+        },
+        {
+          "heading": "3. Manali – Wild, Green, and Full of Adventure",
+          "content": "Manali in the monsoon is for adventurers. The rains make the forests richer, the rivers louder, and the roads more thrilling. If you’re someone who enjoys nature in its raw form, this is your spot. The mountain biking route from Manali to Leh makes it even more exciting. It’s an unforgettable journey across some of India’s wildest and most breathtaking terrains. You’ll pass rivers, valleys, and snow-touched peaks, all with that fresh, rainy vibe. A {{LINK:tour_package:Manali Tour Package}} is just the right pick if you're chasing something bold, active, and unforgettable this monsoon.",
+          "links": [
+            {
+              "key": "tour_package",
+              "text": "Manali Tour Package",
+              "url": "/packages/mountain-bike-tour-manali-leh-travel-package"
+            }
+          ]
+        },
+        {
+          "heading": "Monsoon Travel Tips",
+          "bullet_points": [
+            "Carry a raincoat or quick-dry jacket.",
+            "Avoid high-risk landslide areas during heavy rains.",
+            "Choose trusted tour operators for safety and planning.",
+            "Don’t forget waterproof shoes!"
+          ]
+        }
+      ],
+      "conclusion": {
+        "heading": "Ready to Experience India’s Monsoon Magic?",
+        "content": "Whether you’re in the mood for a peaceful beach holiday, a cultural escape in the hills, or a full-blown adventure, these destinations have it all. The monsoon gives you a chance to see them in a whole new light, whether it's the Andaman Tour Package, the Darjeeling Tour Package, or the Manali Tour Package. Start planning your unforgettable monsoon trip today with curated travel packages from Eaze Tours. Let the monsoon open the door to your most unforgettable journey yet."
+      }
+    },
+    "faq": [
+      {
+        "question": "Is it safe to travel in India during the monsoon season?",
+        "answer": "Yes, it’s generally safe to travel during the monsoon, especially to well-connected destinations like Andaman, Darjeeling, and Manali. However, it's wise to check weather updates, avoid landslide-prone areas, and travel with a trusted tour operator."
+      },
+      {
+        "question": "Which is the best romantic destination in India during monsoon?",
+        "answer": "The Andaman Islands are ideal for couples during monsoon. With lush scenery, quiet beaches, and dreamy sunsets, it’s perfect for a romantic getaway."
+      },
+      {
+        "question": "What should I pack for a monsoon trip in India?",
+        "answer": "Pack light rainwear (like a raincoat or quick-dry jacket), waterproof shoes, insect repellent, and quick-dry clothing. Don't forget a waterproof bag for electronics and essentials."
+      },
+      {
+        "question": "Are tourist spots open during the rainy season in places like Darjeeling and Manali?",
+        "answer": "Yes, most tourist attractions remain open, but operating hours might be affected by weather. It's best to plan ahead and keep some flexibility in your itinerary."
+      },
+      {
+        "question": "Which tour package is best for adventure during monsoon?",
+        "answer": "The Manali Tour Package is perfect for adventure lovers. From biking trails to riverside treks, Manali offers bold, raw experiences enhanced by the monsoon vibe."
+      }
+    ]
+  },
+  {
     "url": "reasons-why-this-is-the-best-sri-lanka-tour-package-for-first-time-visitors",
     "title": "Best Sri Lanka Tour Package for First-Time Visitors | 7N/8D Eaze Tours",
     "page_heading": "Reasons Why This is the Best Sri Lanka Tour Package for First-Time Visitors",
