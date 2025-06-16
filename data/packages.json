@@ -6781,7 +6781,7 @@
         ],
         "Images": [
           {
-            "src": "/images/35/2.jpg",
+            "src": "/images/32/2.jpg",
             "alt": "Red fort"
           }
         ],
@@ -6795,7 +6795,7 @@
         ],
         "Images": [
           {
-            "src": "/images/35/3.jpg",
+            "src": "/images/32/3.jpg",
             "alt": "Hawa Mahal"
           }
         ],
@@ -6809,7 +6809,7 @@
         ],
         "Images": [
           {
-            "src": "/images/35/4.jpg",
+            "src": "/images/32/4.jpg",
             "alt": "Elephant ride"
           }
         ],
@@ -6823,7 +6823,7 @@
         ],
         "Images": [
           {
-            "src": "/images/35/5.jpg",
+            "src": "/images/32/5.jpg",
             "alt": "Mughal architecture"
           }
         ],
@@ -6837,7 +6837,7 @@
         ],
         "Images": [
           {
-            "src": "/images/35/6.jpg",
+            "src": "/images/32/6.jpg",
             "alt": "Taj Mahal"
           }
         ],
@@ -6851,7 +6851,7 @@
         ],
         "Images": [
           {
-            "src": "/images/35/7.jpg",
+            "src": "/images/32/7.jpg",
             "alt": "Taj Mahal"
           }
         ],
@@ -7014,8 +7014,8 @@
     ],
     "Name": "Sri Lanka Travel Package – 7 Nights / 8 Days Itinerary",
     "Tags": [
-      "cultural",
-      "Wildlife"
+      "Wildlife",
+      "srilanka"
     ],
     "LocationDescription": "Delhi\u2013 Agra\u2013 Jaipur\u2013 Delhi",
     "Uri": "srilanka-tour-package-7-nights-8-days",
@@ -7201,8 +7201,8 @@
     ],
     "Name": "Bhutan Tours and Travels – 9 Nights 10 Days Complete Package",
     "Tags": [
-      "cultural",
-      "traditional "
+      "traditional ",
+      "bhutan"
     ],
     "LocationDescription": "Delhi\u2013 Agra\u2013 Jaipur\u2013 Delhi",
     "Uri": "bhutan-tour-package-9-nights-10-days",
@@ -7425,7 +7425,7 @@
     "Name": "Bhutan Tour Package – 12 Nights / 13 Days Itinerary",
     "Tags": [
       "cultural",
-      "traditional "
+      "bhutan"
     ],
     "LocationDescription": "Delhi\u2013 Agra\u2013 Jaipur\u2013 Delhi",
     "Uri": "bhutan-tour-package-12-nights-13-days",
@@ -7541,8 +7541,8 @@
     ],
     "Name": "Sri Lanka Tour Package – 4 Nights / 5 Days Itinerary",
     "Tags": [
-      "cultural",
-      "traditional "
+      "traditional ",
+      "srilanka"
     ],
     "LocationDescription": "Delhi\u2013 Agra\u2013 Jaipur\u2013 Delhi",
     "Uri": "srilanka-tour-package-4-nights-5-days",
