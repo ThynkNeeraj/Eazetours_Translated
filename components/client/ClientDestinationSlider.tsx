@@ -9,8 +9,10 @@ interface ClientDestinationSliderProps {
     title: string;
     content: string;
     bg: string;
+    ctaLink: string; // <-- Add this
   }>;
   ctaText: string;
+  ctaLink: string;
   ctaButtonText: string;
 }
 
@@ -19,6 +21,7 @@ const ClientDestinationSlider = ({
   slides,
   ctaText,
   ctaButtonText,
+  ctaLink,
 }: ClientDestinationSliderProps) => {
   const [currentIndex, setCurrentIndex] = useState(0);
   const infoSliderRef = useRef<HTMLDivElement>(null);
@@ -136,7 +139,7 @@ const ClientDestinationSlider = ({
                   <p className="mb-4 transform group-hover:translate-y-[-10px] transition-all duration-500 ease-in-out">
                     {box.content}
                   </p>
-                  <a href="/packages">
+                  <a href={box.ctaLink}>
                     <button className="px-4 py-2 font-bold bg-white text-[#025C7A] rounded-full hover:bg-gray-100 transition-all duration-300 w-[150px]">
                       {ctaButtonText}
                     </button>
