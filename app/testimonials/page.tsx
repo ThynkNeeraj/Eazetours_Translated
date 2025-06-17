@@ -1,5 +1,6 @@
 import testimonialData from "../../data/testimonials.json";
 import Testimonial from "../../components/Testimonial";
+import TestimonialVideoSection from "../../components/client/TestimonialVideoSection";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -27,6 +28,11 @@ export default function Testimonials() {
           {/* Input Field and Subscribe Button */}
         </div>
       </div>
+
+      
+  {/* Video Section */}
+      <TestimonialVideoSection />
+
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 m-1 place-items-center my-12 mx-8">
         {testimonials.map(testimonial => (
