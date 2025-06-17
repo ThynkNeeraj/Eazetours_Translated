@@ -70,9 +70,9 @@ const LandingNavBar: React.FC = () => {
   return (
     <div className="fixed top-0 left-0 w-full z-50">
       {/* Pre-header */}
-      <div className={`${isScrolled ? "sm:block" : "hidden"}`}>
+      <div className={`hidden sm:block  ${isScrolled ? "sm:block" : "hidden"}`}>
         <div
-          className={`text-white h-[57px] py-[14px] px-[65px] font-urbanist md:flex justify-center transition-all duration-300 ${isScrolled ? "bg-black shadow-lg" : "bg-transparent"}`}
+          className={`text-white h-[57px] py-[14px] px-[65px] font-urbanist md:flex justify-center transition-al sm:block duration-300 ${isScrolled ? "bg-black shadow-lg" : "bg-transparent"}`}
           style={{ display: displayStyle }}
         >
           <div className="flex justify-between items-center text-xs md:text-sm w-full max-w-[1270px] mx-auto">
