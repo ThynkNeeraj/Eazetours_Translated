@@ -174,7 +174,8 @@ const ClientTestimonialSlider = ({
         className="relative rounded-2xl overflow-hidden shadow-lg group transition-transform transform hover:scale-105"
       >
         <div
-          className="relative w-full aspect-video bg-black cursor-pointer"
+          className="relative w-full bg-black cursor-pointer"
+          style={{ aspectRatio: "4 / 3" }}
           onClick={() => handlePlay(index)}
         >
           <video
