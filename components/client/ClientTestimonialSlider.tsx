@@ -175,7 +175,7 @@ const ClientTestimonialSlider = ({
       >
         <div
           className="relative w-full bg-black cursor-pointer"
-          style={{ aspectRatio: "4 / 3" }}
+          style={{ aspectRatio: "3 / 4" }}
           onClick={() => handlePlay(index)}
         >
           <video
@@ -201,9 +201,9 @@ const ClientTestimonialSlider = ({
           )}
         </div>
 
-        <div className="bg-white px-5 py-4 text-center rounded-b-2xl">
+        {/* <div className="bg-white px-5 py-4 text-center rounded-b-2xl">
           <p className="text-lg font-semibold text-[#025C7A]">{video.title}</p>
-        </div>
+        </div> */}
       </div>
     ))}
   </div>
