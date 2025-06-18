@@ -92,7 +92,7 @@ const DestinationsSection = ({ locale = "en" }: DestinationsSectionProps) => {
                 {tripIdeas.indiaTrip.description}
               </p>
               <a href="/packages/royal-rajasthan-tour-package-india">
-                <button className="px-4 py-4 font-normal sm:font-bold bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-[#fff] transition-all duration-300 w-[160px]">
+                <button className="px-4 py-4 font-normal sm:font-bold bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-[#fff] transition-all duration-300 w-[175px]">
                   {tripIdeas.indiaTrip.cta}
                 </button>
               </a>
@@ -119,7 +119,7 @@ const DestinationsSection = ({ locale = "en" }: DestinationsSectionProps) => {
                 {tripIdeas.amritsarTrip.description}
               </p>
               <a href="/packages/north-india-temple-tour-package-india">
-                <button className="px-4 py-4 font-normal sm:font-bold bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-[#fff] transition-all duration-300 w-[160px]">
+                <button className="px-4 py-4 font-normal sm:font-bold bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-[#fff] transition-all duration-300 w-[175px]">
                   {tripIdeas.amritsarTrip.cta}
                 </button>
               </a>
