@@ -975,7 +975,7 @@ const package_images: { [key: string]: { main: StaticImageData; list: Array<Stat
     list: [package_35_1, package_35_2, package_35_3, package_35_4, package_35_5, package_35_6],
   },
   "36": {
-    main: package_36_1,
+    main: package_36_3,
     list: [
       package_36_1,
       package_36_2,
