@@ -61,85 +61,47 @@ function PackagesList() {
     window.history.replaceState({}, "", url);
   }
 
+  const getTabClass = (tab: string) => {
+    return `tab px-[10px] ${
+      tabName === tab ? "tab-active !text-[#fff] !bg-[#025C7A]" : ""
+    }`;
+  };
+
   return (
     <>
       {/* Tabs for large screens */}
       <div role="tablist" className="hidden lg:tabs lg:tabs-boxed justify-center flex-wrap">
-        <button
-          role="tab"
-          className={"tab px-[10px]" + (tabName === "all" ? "tab-active" : "")}
-          onClick={() => handleTabClick("all")}
-        >
+        <button role="tab" className={getTabClass("all")} onClick={() => handleTabClick("all")}>
           All Packages
         </button>
-        <button
-          role="tab"
-          className={"tab px-[10px]" + (tabName === "adventure" ? "tab-active" : "")}
-          onClick={() => handleTabClick("adventure")}
-        >
+        <button role="tab" className={getTabClass("adventure")} onClick={() => handleTabClick("adventure")}>
           Adventure Tours
         </button>
-        <button
-          role="tab"
-          className={"tab px-[10px]" + (tabName === "ayurveda" ? "tab-active" : "")}
-          onClick={() => handleTabClick("ayurveda")}
-        >
+        <button role="tab" className={getTabClass("ayurveda")} onClick={() => handleTabClick("ayurveda")}>
           Ayurveda
         </button>
-        <button
-          role="tab"
-          className={"tab px-[10px]" + (tabName === "cultural" ? "tab-active" : "")}
-          onClick={() => handleTabClick("cultural")}
-        >
+        <button role="tab" className={getTabClass("cultural")} onClick={() => handleTabClick("cultural")}>
           Cultural Tours
         </button>
-        <button
-          role="tab"
-          className={"tab px-[10px]" + (tabName === "luxury" ? "tab-active" : "")}
-          onClick={() => handleTabClick("luxury")}
-        >
+        <button role="tab" className={getTabClass("luxury")} onClick={() => handleTabClick("luxury")}>
           Luxury Tours
         </button>
-        <button
-          role="tab"
-          className={"tab px-[10px]" + (tabName === "honeymoon" ? "tab-active" : "")}
-          onClick={() => handleTabClick("honeymoon")}
-        >
+        <button role="tab" className={getTabClass("honeymoon")} onClick={() => handleTabClick("honeymoon")}>
           Honeymoon Tours
         </button>
-        <button
-          role="tab"
-          className={"tab px-[10px]" + (tabName === "pilgrim" ? "tab-active" : "")}
-          onClick={() => handleTabClick("pilgrim")}
-        >
+        <button role="tab" className={getTabClass("pilgrim")} onClick={() => handleTabClick("pilgrim")}>
           Pilgrimage Tours
         </button>
-        <button
-          role="tab"
-          className={"tab px-[10px]" + (tabName === "tribal" ? "tab-active" : "")}
-          onClick={() => handleTabClick("tribal")}
-        >
+        <button role="tab" className={getTabClass("tribal")} onClick={() => handleTabClick("tribal")}>
           Tribals Tours
         </button>
-        <button
-          role="tab"
-          className={"tab px-[10px]" + (tabName === "wildlife" ? "tab-active" : "")}
-          onClick={() => handleTabClick("wildlife")}
-        >
+        <button role="tab" className={getTabClass("wildlife")} onClick={() => handleTabClick("wildlife")}>
           Wildlife Tours
         </button>
-        <button
-          role="tab"
-          className={"tab px-[10px]" + (tabName === "bhutan" ? "tab-active" : "")}
-          onClick={() => handleTabClick("bhutan")}
-        >
+        <button role="tab" className={getTabClass("bhutan")} onClick={() => handleTabClick("bhutan")}>
           Bhutan Tours
         </button>
-        <button
-          role="tab"
-          className={"tab px-[10px]" + (tabName === "srilanka" ? "tab-active" : "")}
-          onClick={() => handleTabClick("srilanka")}
-        >
+        <button role="tab" className={getTabClass("srilanka")} onClick={() => handleTabClick("srilanka")}>
           Sri Lanka Tours
         </button>
       </div>
