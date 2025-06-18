@@ -14,7 +14,7 @@ export default function Testimonials() {
   return (
     <div>
       <div
-        className="relative mt-[150px] max-w-[1280px] mx-8 h-[480px] rounded-[23px] overflow-hidden flex items-center justify-start p-[20px] sm:p-[80px] bg-cover bg-center"
+        className="relative mt-[150px] max-w-[1280px] mx-8 mb-4 h-[480px] rounded-[23px] overflow-hidden flex items-center justify-start p-[20px] sm:p-[80px] bg-cover bg-center"
         style={{ backgroundImage: 'url("/images/gallery/5.jpg")' }}
       >
         {/* Background overlay */}
