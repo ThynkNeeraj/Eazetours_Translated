@@ -1,5 +1,98 @@
 [
   {
+    "url": "romantic-andaman-honeymoon-getaway",
+    "title": "Romantic Andaman Honeymoon Getaway | Best Beaches & Couple Adventures",
+    "page_heading": "Romantic Andaman Honeymoon Getaway: Best Beaches & Water Adventures for Couples",
+    "description": "Discover the ultimate Andaman honeymoon experience with serene beaches, romantic dinners, and thrilling water adventures. Perfect for couples seeking a dreamy escape in India.",
+    "image": "/images/blogs/main_image/romantic-andaman.png",
+    "feature_image": "/images/blogs/feature_image/romantic-andaman.jpg",
+    "structure": {
+      "introduction": {
+        "content": "Close your eyes for a moment and imagine this: you're walking along a sun-kissed beach, toes in soft white sand, hand in hand with the love of your life. The breeze smells of salt and freedom, the sea is a shimmering turquoise, and in that moment, the world feels just right. If you're dreaming of the perfect {{LINK:honeymoon_package:Honeymoon Tour in India}}, look no further; this is where romance meets paradise.",
+        "links": [
+          {
+            "key": "honeymoon_package",
+            "text": "Honeymoon Tour in India",
+            "url": "/packages/romantic-andaman-tour-package-india"
+          }
+        ]
+      },
+      "main_sections": [
+        {
+          "heading": "Why the Andaman Islands Are Made for Love",
+          "content": "When you think of a honeymoon, you probably picture quiet beaches, romantic sunsets, and moments that feel like they’re straight out of a movie. That’s Andaman for you. Far from the noise of the cities, this island chain in the Bay of Bengal is all about calm waters, stunning landscapes, and intimate experiences. It’s peaceful. It’s beautiful. And it’s just the kind of setting where love naturally blossoms."
+        },
+        {
+          "heading": "Beaches You’ll Never Forget",
+          "content": "Let’s be honest—no romantic getaway is complete without a few dreamy beach strolls. The Andaman Islands are home to some of the most breathtaking beaches in the world, and here are the ones couples simply must visit:"
+        },
+        {
+          "heading": "",
+          "subheadings": [
+            {
+              "title": "Radhanagar Beach (Havelock Island)",
+              "content": "This beach is the real deal. Powdery white sand, clear blue waters, and a view that’s perfect for a sunset selfie. What makes it even more special? A romantic candlelight dinner by the beach. Just you, your partner, a beautifully set table, and the sound of waves gently crashing nearby. Pure magic."
+            },
+            {
+              "title": "Elephant Beach",
+              "content": "If you're the kind of couple who likes a little thrill with your romance, this one’s for you. You can try snorkelling here—hold hands and discover colourful coral reefs together, or take a peaceful glass-bottom boat ride and watch the underwater world glide by without getting wet. It’s fun and memorable"
+            },
+            {
+              "title": "Ross Island",
+              "content": "This one’s for the romantics who love a little history. With its charming colonial ruins and quiet walking trails, Ross Island is ideal for those long conversations and gentle strolls. It’s quiet, a little mysterious, and somehow feels like stepping into another time."
+            }
+          ]
+        },
+        {
+          "heading": "Adventures Worth Sharing",
+          "content": "Now, if you're looking to sprinkle your honeymoon with a little adventure, the Andaman delivers on that front too.",
+          "bullet_points": [
+            "Snorkelling & Glass-Bottom Boat Rides: These activities are not just fun—they’re also surprisingly romantic. There’s something about exploring the ocean together that makes you feel even more connected.",
+            "Scuba Diving (Optional): If you're up for it, scuba diving is an unforgettable experience. Dive into a world filled with vibrant marine life and coral gardens, and come out with stories only the two of you will truly understand.",
+            "Sport Fishing (Optional): It may not be your typical honeymoon activity, but hear us out. It’s a great way to do something unique together. Imagine laughing over your catch of the day or cheering each other on. Unexpectedly fun."
+          ]
+        },
+        {
+          "heading": "A Tour That Thinks of Everything",
+          "content": "What’s truly special about this Romantic Andaman Honeymoon Tour Package is how thoughtfully it’s planned. From smooth airport pick-ups to ferry rides, beautiful hotels to perfectly timed excursions, it’s all handled for you. No stress. No over-scheduling. Just enough planning to make it exciting, and enough free time to just be with each other. Romantic dinners? Check. Adventure options? Check. Stunning views? Oh yes, everywhere you look."
+        }
+      ],
+      "conclusion": {
+        "heading": "Your Honeymoon, Your Way",
+        "content": "This is more than just a holiday, it's the first page of your love story. And what better place to begin than a peaceful island escape built for romance? Ready to turn your dream honeymoon into reality? Start your journey now by exploring the Romantic Andaman Honeymoon Tour Package, available exclusively on {{LINK:home_page:Eaze Tours’ official website}}. Let the adventure of a lifetime begin with a Honeymoon Tour in India.",
+        "links": [
+          {
+            "key": "home_page",
+            "text": "Eaze Tours’ official website",
+            "url": "https://www.eazetours.com/"
+          }
+        ]
+      }
+    },
+    "faq": [
+      {
+        "question": "What is the best time to plan a honeymoon in the Andaman Islands?",
+        "answer": "The best time to visit the Andaman Islands for a honeymoon is between October and May, when the weather is pleasant, the seas are calm, and all water activities are available."
+      },
+      {
+        "question": "Which are the most romantic beaches in Andaman for couples?",
+        "answer": "Top romantic beaches for couples include Radhanagar Beach (ideal for sunset dinners), Elephant Beach (perfect for snorkelling together), and Corbyn’s Cove Beach for a peaceful stroll."
+      },
+      {
+        "question": "Are water activities safe for first-time couples or non-swimmers?",
+        "answer": "Yes, most activities like glass-bottom boat rides, snorkelling, and even beginner scuba dives are guided by certified professionals and are suitable for non-swimmers and first-timers."
+      },
+      {
+        "question": "How many days should we plan for a honeymoon in Andaman?",
+        "answer": "A 5 to 7-day trip is ideal to explore the best beaches, enjoy adventure activities, and still have time for relaxation and romantic moments."
+      },
+      {
+        "question": "Is the Romantic Andaman Honeymoon Tour customizable?",
+        "answer": "Yes, most honeymoon tour packages, including Eaze Tours’ Andaman Honeymoon Getaway, offer customizable itineraries to include activities, hotel upgrades, or special experiences like candlelight dinners."
+      }
+    ]
+  },
+  {
     "url": "best-destinations-to-visit-in-india-during-the-monsoon-season",
     "title": "Top Monsoon Destinations in India – Andaman, Darjeeling & Manali | Eaze Tours",
     "page_heading": "Best Destinations to Visit in India During the Monsoon Season",
