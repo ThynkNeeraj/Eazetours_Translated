@@ -113,7 +113,7 @@ const GallerySection = ({ locale = "en" }: GallerySectionProps) => {
         )}
       </div>
 
-      <div className="flex justify-center items-center mb-[80px] gap-4 mx-8 sm:mx-auto">
+      <div className="flex flex-col justify-center items-center mb-[80px] gap-4 mx-8 sm:mx-auto sm:flex-row">
         <a href="/gallery">
           <button className="px-3 sm:px-8 h-[50px] border-2 border-[#025C7A] bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-white transition-all duration-300">
             {gallery.cta.viewAll}
