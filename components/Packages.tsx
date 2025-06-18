@@ -109,35 +109,35 @@ function PackagesList() {
         </button>
         <button
           role="tab"
-          className={"tab " + (tabName === "pilgrim" ? "tab-active" : "")}
+          className={"tab px-[10px]" + (tabName === "pilgrim" ? "tab-active" : "")}
           onClick={() => handleTabClick("pilgrim")}
         >
           Pilgrimage Tours
         </button>
         <button
           role="tab"
-          className={"tab " + (tabName === "tribal" ? "tab-active" : "")}
+          className={"tab px-[10px]" + (tabName === "tribal" ? "tab-active" : "")}
           onClick={() => handleTabClick("tribal")}
         >
           Tribals Tours
         </button>
         <button
           role="tab"
-          className={"tab " + (tabName === "wildlife" ? "tab-active" : "")}
+          className={"tab px-[10px]" + (tabName === "wildlife" ? "tab-active" : "")}
           onClick={() => handleTabClick("wildlife")}
         >
           Wildlife Tours
         </button>
         <button
           role="tab"
-          className={"tab " + (tabName === "bhutan" ? "tab-active" : "")}
+          className={"tab px-[10px]" + (tabName === "bhutan" ? "tab-active" : "")}
           onClick={() => handleTabClick("bhutan")}
         >
           Bhutan Tours
         </button>
         <button
           role="tab"
-          className={"tab " + (tabName === "srilanka" ? "tab-active" : "")}
+          className={"tab px-[10px]" + (tabName === "srilanka" ? "tab-active" : "")}
           onClick={() => handleTabClick("srilanka")}
         >
           Sri Lanka Tours
