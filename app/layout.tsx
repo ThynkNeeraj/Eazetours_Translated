@@ -25,7 +25,7 @@ import LandingNavBar from "../components/LandingNavBar"; // Specific Navbar for 
 import Footer from "../components/Footer";
 import CanonicalURL from "../components/CanonicalURL";
 import logo from "../public/images/logo.png";
-import GoogleTranslate from '@/components/GoogleTranslate';
+import GoogleTranslate from "../components/GoogleTranslate";
 
 const homePageJsonLd = {
   "@context": "https://schema.org",
