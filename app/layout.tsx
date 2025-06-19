@@ -26,6 +26,7 @@ import Footer from "../components/Footer";
 import CanonicalURL from "../components/CanonicalURL";
 import logo from "../public/images/logo.png";
 import { LanguageSwitcher } from "../components/language-switcher";
+import GoogleTranslate from '@/components/GoogleTranslate';
 
 const homePageJsonLd = {
   "@context": "https://schema.org",
@@ -90,6 +91,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
 
         <main>{children}
         <LanguageSwitcher />
+          <GoogleTranslate />
         </main>
         <Footer />
         <Analytics />
