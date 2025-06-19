@@ -71,8 +71,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           rel="stylesheet"
         />
       </Head>
-      <Script src="/assets/lang-config.js" strategy="beforeInteractive" />
-      <Script src="/assets/translation.js" strategy="beforeInteractive" />
+      <Script src="../public/assets/lang-config.js" strategy="beforeInteractive" />
+      <Script src="../public/assets/translation.js" strategy="beforeInteractive" />
       <Script src="//translate.google.com/translate_a/element.js?cb=TranslateInit" strategy="afterInteractive" />
       <body className={inter.className}>
         <div id="google_translate_element"></div>
