@@ -11,7 +11,7 @@ declare global {
 
 const GoogleTranslate = () => {
   useEffect(() => {
-    // Define the global callback before loading the script
+    // Define the global callback for Google Translate
     window.googleTranslateElementInit = () => {
       new window.google.translate.TranslateElement(
         {
@@ -21,3 +21,10 @@ const GoogleTranslate = () => {
         },
         'google_translate_element'
       );
+    };
+  }, []);
+
+  return <div id="google_translate_element" className="mt-4"></div>;
+};
+
+export default GoogleTranslate;
