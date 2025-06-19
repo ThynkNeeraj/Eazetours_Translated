@@ -25,7 +25,6 @@ import LandingNavBar from "../components/LandingNavBar"; // Specific Navbar for 
 import Footer from "../components/Footer";
 import CanonicalURL from "../components/CanonicalURL";
 import logo from "../public/images/logo.png";
-import { LanguageSwitcher } from "../components/language-switcher";
 import GoogleTranslate from '@/components/GoogleTranslate';
 
 const homePageJsonLd = {
@@ -73,11 +72,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           rel="stylesheet"
         />
       </Head>
-      <Script src="../public/assets/lang-config.js" strategy="beforeInteractive" />
-      <Script src="../public/assets/translation.js" strategy="beforeInteractive" />
-      <Script src="//translate.google.com/translate_a/element.js?cb=TranslateInit" strategy="afterInteractive" />
-      <body className={inter.className}>
-        <div id="google_translate_element"></div>
+       <body>
+        
         <Script
           id="organization-schema"
           type="application/ld+json"
@@ -90,7 +86,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         {pathname === "/" ? <LandingNavBar /> : <NavBar />}
 
         <main>{children}
-        <LanguageSwitcher />
+        
           <GoogleTranslate />
         </main>
         <Footer />
