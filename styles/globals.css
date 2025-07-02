@@ -125,3 +125,7 @@
     padding-left: 10px;
   }
 }
+
+#google_translate_element {
+display:none !important;
+}
