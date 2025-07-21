@@ -123,6 +123,36 @@ const NavBar: React.FC = () => {
               >
                 <i className="fab fa-pinterest text-sm leading-lg" />
               </a>
+              <div className="relative inline-block w-48">
+                <select
+                  className="bg-[#025c7a] text-white px-2 py-1 pr-10 rounded-[5px] appearance-none w-full"
+                  onChange={(e) => {
+                    const lang = e.target.value;
+                    const select = document.querySelector(".goog-te-combo");
+                    if (select instanceof HTMLSelectElement) {
+                      select.value = lang;
+                      select.dispatchEvent(new Event("change"));
+                    }
+                  }}
+                >
+                  <option value="">Select Language</option>
+                  <option value="de">German</option>
+                  <option value="fr">French</option>
+                  <option value="es">Spanish</option>
+                </select>
+
+                <div className="pointer-events-none absolute inset-y-0 right-0 flex items-center pr-3 text-white">
+                  <svg
+                    className="w-4 h-4"
+                    fill="none"
+                    stroke="currentColor"
+                    strokeWidth="2"
+                    viewBox="0 0 24 24"
+                  >
+                    <path d="M19 9l-7 7-7-7" />
+                  </svg>
+                </div>
+              </div>
             </div>
           </div>
         </div>
@@ -160,11 +190,10 @@ const NavBar: React.FC = () => {
                 <Link key={index} href={link.href} passHref>
                   <button
                     onClick={() => handleLinkClick(link.href)}
-                    className={`btn btn-ghost btn-sm rounded-btn ${
-                      activePage === link.href
-                        ? "text-[#6E9753] text-[16px]"
-                        : "text-[#025C7A] text-[16px]"
-                    }`}
+                    className={`btn btn-ghost btn-sm rounded-btn ${activePage === link.href
+                      ? "text-[#6E9753] text-[16px]"
+                      : "text-[#025C7A] text-[16px]"
+                      }`}
                   >
                     {link.label}
                   </button>
@@ -175,20 +204,18 @@ const NavBar: React.FC = () => {
 
           {/* Mobile Sidebar */}
           <div
-            className={`md:hidden fixed top-0 right-0 w-3/4 bg-white h-screen z-40 shadow-lg transform transition-transform duration-300 ${
-              isMenuOpen ? "translate-x-0" : "translate-x-full"
-            }`}
+            className={`md:hidden fixed top-0 right-0 w-3/4 bg-white h-screen z-40 shadow-lg transform transition-transform duration-300 ${isMenuOpen ? "translate-x-0" : "translate-x-full"
+              }`}
           >
             <div className="flex flex-col absolute top-0 text-left items-start px-4 gap-4 py-16">
               {navLinks.map((link, index) => (
                 <Link key={index} href={link.href} passHref>
                   <button
                     onClick={() => handleLinkClick(link.href)}
-                    className={`btn btn-ghost btn-sm rounded-btn ${
-                      activePage === link.href
-                        ? "text-[#6E9753] text-[16px]"
-                        : "text-[#025C7A] text-[16px]"
-                    }`}
+                    className={`btn btn-ghost btn-sm rounded-btn ${activePage === link.href
+                      ? "text-[#6E9753] text-[16px]"
+                      : "text-[#025C7A] text-[16px]"
+                      }`}
                   >
                     {link.label}
                   </button>
@@ -211,7 +238,7 @@ const NavBar: React.FC = () => {
             <Link href="/contact" passHref>
               <button
                 onClick={handleContactClick}
-                className="btn flex items-center justify-center w-[173px] h-[46px] rounded-[41px] bg-[#025C7A] pr-[6px] pl-[10px] hover:bg-[#6E9753]"
+                className="btn flex items-center justify-center min-w-[173px] h-[46px] rounded-[41px] bg-[#025C7A] pr-[6px] pl-[10px] hover:bg-[#6E9753]"
               >
                 <span
                   className="mr-2 text-white"
