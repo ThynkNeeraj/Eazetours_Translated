@@ -88,7 +88,7 @@ const ClientDestinationSlider = ({
           {heading}
         </h2>
 
-        <div className="flex gap-4 z-[100]">
+        <div className="flex gap-4 z-[1]">
           <button
             onClick={handlePrevInfoBox}
             className="bg-[#E4F8FF] text-2xl text-[#025C7A] py-[10px] px-5 rounded-full hover:bg-gray-700 hover:text-[#fff] transition-all duration-300"
@@ -140,7 +140,7 @@ const ClientDestinationSlider = ({
                     {box.content}
                   </p>
                   <a href={box.ctaLink}>
-                    <button className="px-4 py-2 font-bold bg-white text-[#025C7A] rounded-full hover:bg-gray-100 transition-all duration-300 w-[150px]">
+                    <button className="px-4 py-2 font-bold bg-white text-[#025C7A] rounded-full hover:bg-gray-100 transition-all duration-300 min-w-[150px]">
                       {ctaButtonText}
                     </button>
                   </a>
