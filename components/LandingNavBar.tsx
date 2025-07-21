@@ -70,34 +70,37 @@ const LandingNavBar: React.FC = () => {
   return (
     <div className="fixed top-0 left-0 w-full z-50">
       {/* Pre-header */}
-      <div className={`hidden sm:block  ${isScrolled ? "sm:block" : "hidden"}`}>
+      <div className="">
+
         <div
-          className={`text-white h-[57px] py-[14px] px-[65px] font-urbanist md:flex justify-center transition-al sm:block duration-300 ${isScrolled ? "bg-black shadow-lg" : "bg-transparent"}`}
+          className={`bg-black text-white h-[57px] py-[14px] px-[65px] font-urbanist md:flex justify-center transition-all duration-300`}
           style={{ display: displayStyle }}
         >
-          <div className="flex justify-between items-center text-xs md:text-sm w-full max-w-[1270px] mx-auto">
+          <div className="flex justify-center sm:justify-between items-center text-xs md:text-sm w-full max-w-[1270px] mx-auto">
             {/* Contact Details */}
-            <div className="flex gap-4">
-              <span className="flex items-center gap-2">
-                <span className="relative flex items-center justify-center rounded-full bg-transparent text-white">
-                  <i className="fas fa-phone fa-flip-horizontal text-[15px]" />
-                </span>
-                <a href="tel:+919873186168" className="text-white text-[16px]">
-                  +91 987 318 6168
-                </a>
-              </span>
-              <span className="flex items-center gap-2">
-                <i className="fas fa-envelope text-[18px]" />
-                <span className="flex flex-wrap">
-                  <a href="mailto:info@eazetours.com" className="text-white text-[16px]">
-                    info@eazetours.com
-                  </a>
-                  ,
-                  <a href="mailto:harshit@eazetours.com" className="text-white text-[16px] ml-1">
-                    harshit@eazetours.com
+            <div className="hidden sm:block">
+              <div className="flex gap-4">
+                <span className="flex items-center gap-2">
+                  <span className="relative flex items-center justify-center rounded-full bg-transparent text-white">
+                    <i className="fas fa-phone fa-flip-horizontal text-[15px]" />
+                  </span>
+                  <a href="tel:+919873186168" className="text-white text-[16px]">
+                    +91 987 318 6168
                   </a>
                 </span>
-              </span>
+                <span className="flex items-center gap-2">
+                  <i className="fas fa-envelope text-[18px]" />
+                  <span className="flex flex-wrap">
+                    <a href="mailto:info@eazetours.com" className="text-white text-[16px]">
+                      info@eazetours.com
+                    </a>
+                    ,
+                    <a href="mailto:harshit@eazetours.com" className="text-white text-[16px] ml-1">
+                      harshit@eazetours.com
+                    </a>
+                  </span>
+                </span>
+              </div>
             </div>
             {/* Social Icons */}
 
@@ -106,7 +109,7 @@ const LandingNavBar: React.FC = () => {
                 href="https://www.tripadvisor.in/Attraction_Review-g304551-d17734269-Reviews-EAZE_TOURS-New_Delhi_National_Capital_Territory_of_Delhi.html"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="relative w-7 h-7 flex items-center justify-center rounded-full bg-transparent border border-white text-white hover:bg-gray-300"
+                className="relative w-7 h-7 flex items-center justify-center rounded-full bg-white text-black hover:bg-gray-300"
               >
                 <i className="fab fa-tripadvisor text-sm leading-lg" />
               </a>
@@ -115,7 +118,7 @@ const LandingNavBar: React.FC = () => {
                 href="https://www.instagram.com/eazetourpackages/"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="relative w-7 h-7 flex items-center justify-center rounded-full bg-transparent border border-white text-white hover:bg-gray-300"
+                className="relative w-7 h-7 flex items-center justify-center rounded-full bg-white text-black hover:bg-gray-300"
               >
                 <i className="fab fa-instagram text-sm leading-lg" />
               </a>
@@ -124,7 +127,7 @@ const LandingNavBar: React.FC = () => {
                 href="https://www.facebook.com/eazetour/"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="relative w-7 h-7 flex items-center justify-center rounded-full bg-transparent border border-white text-white hover:bg-gray-300"
+                className="relative w-7 h-7 flex items-center justify-center rounded-full bg-white text-black hover:bg-gray-300"
               >
                 <i className="fab fa-facebook text-sm leading-lg" />
               </a>
@@ -133,7 +136,7 @@ const LandingNavBar: React.FC = () => {
                 href="https://www.pinterest.com/eazetourpackages/"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="relative w-7 h-7 flex items-center justify-center rounded-full bg-transparent border border-white text-white text-black hover:bg-gray-300"
+                className="relative w-7 h-7 flex items-center justify-center rounded-full bg-white text-black hover:bg-gray-300"
               >
                 <i className="fab fa-pinterest text-sm leading-lg" />
               </a>
