@@ -22,31 +22,31 @@ const DestinationsSection = ({ locale = "en" }: DestinationsSectionProps) => {
     },
     {
       id: 2,
-      title: destinations.locations.maldives.title,
-      content: destinations.locations.maldives.content,
-      bg: "/images/maldives.png",
-      ctaLink: "/packages"
-    },
-    {
-      id: 3,
       title: destinations.locations.nepal.title,
       content: destinations.locations.nepal.content,
       bg: "/images/nepal.png",
-      ctaLink: "/packages"
+      ctaLink: "/packages?tab=nepal"
     },
     {
-      id: 4,
+      id: 3,
       title: destinations.locations.bhutan.title,
       content: destinations.locations.bhutan.content,
       bg: "/images/bhutan.png",
       ctaLink: "packages?tab=bhutan"
     },
     {
-      id: 5,
+      id: 4,
       title: destinations.locations.sriLanka.title,
       content: destinations.locations.sriLanka.content,
       bg: "/images/SRI_LANKA.webp",
       ctaLink: "packages?tab=srilanka"
+    },
+    {
+      id: 5,
+      title: destinations.locations.maldives.title,
+      content: destinations.locations.maldives.content,
+      bg: "/images/maldives.png",
+      ctaLink: "/packages?tab=maldives"
     },
   ];
 
@@ -84,15 +84,15 @@ const DestinationsSection = ({ locale = "en" }: DestinationsSectionProps) => {
           ></div>
 
           <div className="absolute inset-0 flex flex-col items-between justify-between text-white text-left p-6">
-            <h3 className="text-[32px] font-semibold mb-2 sm:w-[60%] w-[80%] font-urbanist">
+            <h3 className="text-[32px] font-semibold mb-2 sm:w-[70%] w-[80%] font-urbanist">
               {tripIdeas.indiaTrip.heading}
             </h3>
             <div>
-              <p className="mb-4 sm:w-[60%] w-[80%] font-urbanist">
+              <p className="mb-4 sm:w-[65%] w-[80%] font-urbanist">
                 {tripIdeas.indiaTrip.description}
               </p>
               <a href="/packages/royal-rajasthan-tour-package-india">
-                <button className="px-4 py-4 font-normal sm:font-bold bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-[#fff] transition-all duration-300 w-[175px]">
+                <button className="px-4 py-4 font-normal sm:font-bold bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-[#fff] transition-all duration-300 min-w-[175px]">
                   {tripIdeas.indiaTrip.cta}
                 </button>
               </a>
@@ -111,15 +111,15 @@ const DestinationsSection = ({ locale = "en" }: DestinationsSectionProps) => {
           ></div>
 
           <div className="absolute inset-0 flex flex-col items-between justify-between text-white text-left p-6">
-            <h3 className="text-[32px] font-semibold mb-2 sm:w-[60%] w-[80%] font-urbanist">
+            <h3 className="text-[32px] font-semibold mb-2 sm:w-[70%] w-[80%] font-urbanist">
               {tripIdeas.amritsarTrip.heading}
             </h3>
             <div>
-              <p className="mb-4 sm:w-[60%] w-[80%] font-urbanist">
+              <p className="mb-4 sm:w-[65%] w-[80%] font-urbanist">
                 {tripIdeas.amritsarTrip.description}
               </p>
               <a href="/packages/north-india-temple-tour-package-india">
-                <button className="px-4 py-4 font-normal sm:font-bold bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-[#fff] transition-all duration-300 w-[175px]">
+                <button className="px-4 py-4 font-normal sm:font-bold bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-[#fff] transition-all duration-300 min-w-[175px]">
                   {tripIdeas.amritsarTrip.cta}
                 </button>
               </a>
