@@ -83,12 +83,12 @@ const DestinationsSection = ({ locale = "en" }: DestinationsSectionProps) => {
             }}
           ></div>
 
-          <div className="absolute inset-0 flex flex-col items-between justify-between text-white text-left p-6">
+          <div className="absolute inset-0 flex flex-col items-between justify-center text-white text-left p-6">
             <h3 className="text-[32px] font-semibold mb-2 sm:w-[70%] w-[80%] font-urbanist">
               {tripIdeas.indiaTrip.heading}
             </h3>
             <div>
-              <p className="mb-4 sm:w-[65%] w-[80%] font-urbanist">
+              <p className="mb-4 sm:w-[75%] w-[80%] font-urbanist">
                 {tripIdeas.indiaTrip.description}
               </p>
               <a href="/packages/royal-rajasthan-tour-package-india">
@@ -110,12 +110,12 @@ const DestinationsSection = ({ locale = "en" }: DestinationsSectionProps) => {
             }}
           ></div>
 
-          <div className="absolute inset-0 flex flex-col items-between justify-between text-white text-left p-6">
+          <div className="absolute inset-0 flex flex-col items-between justify-center text-white text-left p-6">
             <h3 className="text-[32px] font-semibold mb-2 sm:w-[70%] w-[80%] font-urbanist">
               {tripIdeas.amritsarTrip.heading}
             </h3>
             <div>
-              <p className="mb-4 sm:w-[65%] w-[80%] font-urbanist">
+              <p className="mb-4 sm:w-[75%] w-[80%] font-urbanist">
                 {tripIdeas.amritsarTrip.description}
               </p>
               <a href="/packages/north-india-temple-tour-package-india">
