@@ -136,6 +136,7 @@ const NavBar: React.FC = () => {
                   }}
                 >
                   <option value="">Select Language</option>
+                  <option value="en">English</option>
                   <option value="de">German</option>
                   <option value="fr">French</option>
                   <option value="es">Spanish</option>
