@@ -98,7 +98,7 @@ export default function Gallery() {
 
   return (
     <div>
-      <div className="mt-[135px] sm:mt-[165px] mx-8 mb-12">
+      <div className="mt-[165px] sm:mt-[165px] mx-8 mb-12">
         <p className="text-[14px] text-gray-700 mt-4">
           <span className="text-[#ccc] hover:text-[#035C7A]">
             <Link href="/" passHref>
