@@ -8,7 +8,7 @@ export default function BlogsList() {
   const blogs = blogData;
   return (
     <>
-      <div className="mt-[115px] sm:mt-[165px] mx-8 mb-12 max-w-[1280px]">
+      <div className="mt-[165px] sm:mt-[165px] mx-8 mb-12 max-w-[1280px]">
         <p className="text-[14px] text-gray-700 mt-4">
           <span className="text-[#ccc] hover:text-[#035C7A]">
             <Link href="/" passHref>
