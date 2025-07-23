@@ -22,7 +22,7 @@ export default function Testimonials() {
 
         {/* Content */}
         <div className="relative z-10 w-[900px] py-8 pt-[150px] text-left">
-          <h2 className="text-white text-[56px] mb-4 font-semibold leading-[1.2em]">
+          <h2 className="text-white sm:text-[56px] text-[40px] mb-4 font-semibold leading-[1.2em]">
             We let our customers talk for us.
           </h2>
           {/* Input Field and Subscribe Button */}
