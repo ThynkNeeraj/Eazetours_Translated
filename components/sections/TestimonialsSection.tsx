@@ -58,8 +58,8 @@ const TestimonialsSection = ({ locale = "en" }: TestimonialsSectionProps) => {
           backgroundSize: "cover",
         }}
       >
-        <div className="min-w-[600px] bg-black p-8 pb-12 rounded-[23px] text-left">
-          <h2 className="text-white text-[40px] mb-4 font-semibold leading-[1.2em]">
+        <div className="sm:min-w-[600px] bg-black p-8 pb-12 rounded-[23px] text-left">
+          <h2 className="text-white text-[32px] sm:text-[40px] mb-4 font-semibold leading-[1.2em]">
             Subscribe & Get 20% off
           </h2>
           <p className="text-white mb-6">
