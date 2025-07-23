@@ -40,7 +40,7 @@ export default async function Packages(props: Params) {
 
   if (!slug) {
     return (
-      <div className="mt-[78px] sm:mt-[135px]">
+      <div className="mt-[135px] sm:mt-[135px]">
         <PackagesList />
       </div>
     );
