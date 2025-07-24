@@ -70,7 +70,7 @@ function PackagesList() {
   return (
     <>
       {/* Tabs for large screens */}
-      <div role="tablist" className="hidden lg:tabs lg:tabs-boxed justify-center flex-wrap">
+      <div className="hidden lg:flex lg:flex-wrap lg:justify-center lg:tabs lg:tabs-boxed max-w-[1180px] mx-auto">
         <button role="tab" className={getTabClass("all")} onClick={() => handleTabClick("all")}>
           All Packages
         </button>
